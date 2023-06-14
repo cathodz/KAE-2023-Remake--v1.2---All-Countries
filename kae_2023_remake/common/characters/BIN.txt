@@ -1,0 +1,16 @@
+characters={
+	BIN_lai_huo={
+		name=BIN_CHARACTER_LAI_HUO
+		portraits={
+			civilian={
+				large="GFX_portrait_bin_lai_huo_large"
+			}
+		}
+		country_leader={
+			ideology=council_technocracy
+			traits = {  }
+			desc = BIN_LAI_HUO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

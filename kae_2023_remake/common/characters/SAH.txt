@@ -1,0 +1,16 @@
+characters={
+	SAH_anarchist_society={
+		name=SAH_CHARACTER_ANARCHIST_SOCIETY
+		portraits={
+			civilian={
+				large="GFX_portrait_sah_anarchist_society_large"
+			}
+		}
+		country_leader={
+			ideology=anarchist_communism
+			traits = {  }
+			desc = SAH_ANARCHIST_SOCIETY_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

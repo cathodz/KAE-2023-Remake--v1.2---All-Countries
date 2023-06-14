@@ -1,0 +1,16 @@
+characters={
+	PAV_kuvayev_valentinovich={
+		name=PAV_CHARACTER_KUVAYEV_VALENTINOVICH
+		portraits={
+			civilian={
+				large="GFX_portrait_pav_kuvayev_valentinovich_large"
+			}
+		}
+		country_leader={
+			ideology=social_galactism
+			traits = {  }
+			desc = PAV_KUVAYEV_VALENTINOVICH_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

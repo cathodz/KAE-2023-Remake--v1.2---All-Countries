@@ -1,0 +1,16 @@
+characters={
+	EGL_belgrado_i={
+		name=EGL_CHARACTER_BELGRADO_I
+		portraits={
+			civilian={
+				large="GFX_portrait_egl_belgrado_i_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = EGL_BELGRADO_I_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

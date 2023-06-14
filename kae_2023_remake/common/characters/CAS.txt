@@ -1,0 +1,16 @@
+characters={
+	CAS_yusef_mian={
+		name=CAS_CHARACTER_YUSEF_MIAN
+		portraits={
+			civilian={
+				large="GFX_portrait_cas_yusef_mian_large"
+			}
+		}
+		country_leader={
+			ideology=vanguardist_ultraprogressivism
+			traits = {  }
+			desc = CAS_YUSEF_MIAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

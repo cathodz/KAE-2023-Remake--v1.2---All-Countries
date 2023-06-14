@@ -1,0 +1,16 @@
+characters={
+	LTH_bernardas_grikala={
+		name=LTH_CHARACTER_BERNARDAS_GRIKALA
+		portraits={
+			civilian={
+				large="GFX_portrait_lth_bernardas_grikala_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = LTH_BERNARDAS_GRIKALA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

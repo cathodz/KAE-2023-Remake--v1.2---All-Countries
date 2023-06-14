@@ -1,0 +1,16 @@
+characters={
+	PRS_zimraan_ahmadi={
+		name=PRS_CHARACTER_ZIMRAAN_AHMADI
+		portraits={
+			civilian={
+				large="GFX_portrait_prs_zimraan_ahmadi_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = PRS_ZIMRAAN_AHMADI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

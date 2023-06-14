@@ -1,0 +1,15 @@
+﻿l_english:
+
+ # ETERNAL REALM
+ ETR_accelerationism_party:0 "NAF"
+ ETR_accelerationism_party_long:0 "National Accelerationist Fraternity"
+ ETR_egalitarianism_party:0 "CRC"
+ ETR_egalitarianism_party_long:0 "Commonwealth Restoration Committee" 
+ 
+ # PIEDMONT
+ PIE_accelerationism_party:0 "PRASC"
+ PIE_accelerationism_party_long:0 "Piedmontese Radical Accelerationist Supreme Council"
+
+ # GALACICIST RUSSIAN EMPIRE
+ GAL_galactism_party:0 "ARGC"
+ GAL_galactism_party_long:0 "All-Russian Galactist Congress"  

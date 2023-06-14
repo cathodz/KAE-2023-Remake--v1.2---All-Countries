@@ -1,0 +1,16 @@
+characters={
+	BLG_gavril_vanko={
+		name=BLG_CHARACTER_GAVRIL_VANKO
+		portraits={
+			civilian={
+				large="GFX_portrait_blg_gavril_vanko_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = BLG_GAVRIL_VANKO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	BEI_ren_yijun={
+		name=BEI_CHARACTER_REN_YIJUN
+		portraits={
+			civilian={
+				large="GFX_portrait_bei_ren_yijun_large"
+			}
+		}
+		country_leader={
+			ideology=futurist_progressivism
+			traits = {  }
+			desc = BEI_REN_YIJUN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

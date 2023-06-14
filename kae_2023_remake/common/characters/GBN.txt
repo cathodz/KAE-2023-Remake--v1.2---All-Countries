@@ -1,0 +1,16 @@
+characters={
+	GBN_tembo_saro-wiwa={
+		name=GBN_CHARACTER_TEMBO_SARO-WIWA
+		portraits={
+			civilian={
+				large="GFX_portrait_gbn_tembo_saro-wiwa_large"
+			}
+		}
+		country_leader={
+			ideology=pan_african_socialism
+			traits = {  }
+			desc = GBN_TEMBO_SARO-WIWA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

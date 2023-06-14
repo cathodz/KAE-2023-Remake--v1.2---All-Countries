@@ -1,0 +1,16 @@
+characters={
+	AFS_sulaiman_farha={
+		name=AFS_CHARACTER_SULAIMAN_FARHA
+		portraits={
+			civilian={
+				large="GFX_portrait_afs_sulaiman_farha_large"
+			}
+		}
+		country_leader={
+			ideology=islamic_progressivism
+			traits = {  }
+			desc = AFS_SULAIMAN_FARHA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

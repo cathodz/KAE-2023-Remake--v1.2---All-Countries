@@ -1,0 +1,28 @@
+state={
+	id=924
+	name="STATE_924"
+	manpower = 146240
+	
+	state_category = metropolis
+
+	history=
+	{
+		owner = XOV
+		add_core_of = XOV
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			air_base = 5
+			
+			11009 = {
+				naval_base = 5
+			}		
+		}
+	}
+	provinces={
+		11009 5209 8913 5215 5201 
+	}
+
+	local_supplies=0.0 
+}

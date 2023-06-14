@@ -1,0 +1,16 @@
+characters={
+	QUE_zenta_shera={
+		name=QUE_CHARACTER_ZENTA_SHERA
+		portraits={
+			civilian={
+				large="GFX_portrait_que_zenta_shera_large"
+			}
+		}
+		country_leader={
+			ideology=council_technocracy
+			traits = {  }
+			desc = QUE_ZENTA_SHERA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

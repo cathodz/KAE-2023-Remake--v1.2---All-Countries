@@ -1,0 +1,16 @@
+characters={
+	HAU_jamal_asari-dokubo={
+		name=HAU_CHARACTER_JAMAL_ASARI-DOKUBO
+		portraits={
+			civilian={
+				large="GFX_portrait_hau_jamal_asari-dokubo_large"
+			}
+		}
+		country_leader={
+			ideology=pan_african_socialism
+			traits = {  }
+			desc = HAU_JAMAL_ASARI-DOKUBO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

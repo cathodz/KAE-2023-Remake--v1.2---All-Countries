@@ -1,0 +1,16 @@
+characters={
+	NAR_gotthilf={
+		name=NAR_CHARACTER_GOTTHILF
+		portraits={
+			civilian={
+				large="GFX_portrait_nar_gotthilf_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = NAR_GOTTHILF_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

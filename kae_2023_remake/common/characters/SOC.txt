@@ -1,0 +1,16 @@
+characters={
+	SOC_saffiya_kamal={
+		name=SOC_CHARACTER_SAFFIYA_KAMAL
+		portraits={
+			civilian={
+				large="GFX_portrait_soc_saffiya_kamal_large"
+			}
+		}
+		country_leader={
+			ideology=neo_socialism
+			traits = {  }
+			desc = SOC_SAFFIYA_KAMAL_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

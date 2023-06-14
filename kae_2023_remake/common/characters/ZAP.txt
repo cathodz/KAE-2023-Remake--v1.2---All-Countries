@@ -1,0 +1,16 @@
+characters={
+	ZAP_algavri_francesco={
+		name=ZAP_CHARACTER_ALGAVRI_FRANCESCO
+		portraits={
+			civilian={
+				large="GFX_portrait_zap_algavri_francesco_large"
+			}
+		}
+		country_leader={
+			ideology=milanese_accelerationism
+			traits = {  }
+			desc = ZAP_ALGAVRI_FRANCESCO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

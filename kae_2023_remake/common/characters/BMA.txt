@@ -1,0 +1,16 @@
+characters={
+	BMA_they_phyo={
+		name=BMA_CHARACTER_THEY_PHYO
+		portraits={
+			civilian={
+				large="GFX_portrait_bma_they_phyo_large"
+			}
+		}
+		country_leader={
+			ideology=socialist_populism
+			traits = {  }
+			desc = BMA_THEY_PHYO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

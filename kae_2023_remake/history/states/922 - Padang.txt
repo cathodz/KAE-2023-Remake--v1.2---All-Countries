@@ -1,0 +1,32 @@
+state={
+	id=922
+	name="STATE_922"
+	manpower = 326810
+	
+	state_category = town
+	
+	resources={
+		rubber=32 # was: 150
+		oil=8 # was: 12
+		aluminium=17 # was: 28
+	}
+
+
+	history=
+	{
+		owner = SUM
+		add_core_of = SUM
+		add_core_of = SUU
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces={
+		10354 1460 4446 10522
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,16 @@
+characters={
+	GBR_louis_perrault={
+		name=GBR_CHARACTER_LOUIS_PERRAULT
+		portraits={
+			civilian={
+				large="GFX_portrait_gbr_louis_perrault_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = GBR_LOUIS_PERRAULT_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

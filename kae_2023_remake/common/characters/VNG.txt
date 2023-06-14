@@ -1,0 +1,16 @@
+characters={
+	VNG_nikolas_papakostas={
+		name=VNG_CHARACTER_NIKOLAS_PAPAKOSTAS
+		portraits={
+			civilian={
+				large="GFX_portrait_vng_nikolas_papakostas_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = VNG_NIKOLAS_PAPAKOSTAS_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

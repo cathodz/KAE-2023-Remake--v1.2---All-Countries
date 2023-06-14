@@ -1,0 +1,16 @@
+characters={
+	RCA_khasan_paskal={
+		name=RCA_CHARACTER_KHASAN_PASKAL
+		portraits={
+			civilian={
+				large="GFX_portrait_rca_khasan_paskal_large"
+			}
+		}
+		country_leader={
+			ideology=reformist_ultraprogressivism
+			traits = {  }
+			desc = RCA_KHASAN_PASKAL_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

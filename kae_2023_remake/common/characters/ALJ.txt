@@ -1,0 +1,16 @@
+characters={
+	ALJ_reyhan_saba={
+		name=ALJ_CHARACTER_REYHAN_SABA
+		portraits={
+			civilian={
+				large="GFX_portrait_alj_reyhan_saba_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = ALJ_REYHAN_SABA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

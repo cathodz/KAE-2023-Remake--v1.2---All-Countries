@@ -1,0 +1,16 @@
+characters={
+	MOS_kamili_iweala={
+		name=MOS_CHARACTER_KAMILI_IWEALA
+		portraits={
+			civilian={
+				large="GFX_portrait_mos_kamili_iweala_large"
+			}
+		}
+		country_leader={
+			ideology=futurist_progressivism
+			traits = {  }
+			desc = MOS_KAMILI_IWEALA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

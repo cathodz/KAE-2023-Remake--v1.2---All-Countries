@@ -1,0 +1,16 @@
+characters={
+	MLG_odon_randriamaro={
+		name=MLG_CHARACTER_ODON_RANDRIAMARO
+		portraits={
+			civilian={
+				large="GFX_portrait_mlg_odon_randriamaro_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = MLG_ODON_RANDRIAMARO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

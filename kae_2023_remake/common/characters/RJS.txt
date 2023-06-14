@@ -1,0 +1,16 @@
+characters={
+	RJS_chandan_kari={
+		name=RJS_CHARACTER_CHANDAN_KARI
+		portraits={
+			civilian={
+				large="GFX_portrait_rjs_chandan_kari_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = RJS_CHANDAN_KARI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	KHU_nusair_mahmood={
+		name=KHU_CHARACTER_NUSAIR_MAHMOOD
+		portraits={
+			civilian={
+				large="GFX_portrait_khu_nusair_mahmood_large"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {  }
+			desc = KHU_NUSAIR_MAHMOOD_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

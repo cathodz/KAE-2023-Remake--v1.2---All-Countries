@@ -1,0 +1,16 @@
+characters={
+	HSP_jorge_espinoza={
+		name=HSP_CHARACTER_JORGE_ESPINOZA
+		portraits={
+			civilian={
+				large="GFX_portrait_hsp_jorge_espinoza_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = HSP_JORGE_ESPINOZA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

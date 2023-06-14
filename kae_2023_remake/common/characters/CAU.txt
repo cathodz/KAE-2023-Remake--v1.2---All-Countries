@@ -1,0 +1,16 @@
+characters={
+	CAU_aran={
+		name=CAU_CHARACTER_ARAN
+		portraits={
+			civilian={
+				large="GFX_portrait_cau_aran_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = CAU_ARAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

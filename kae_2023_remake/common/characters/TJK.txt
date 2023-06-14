@@ -1,0 +1,16 @@
+characters={
+	TJK_azarkhsh_siamak={
+		name=TJK_CHARACTER_AZARKHSH_SIAMAK
+		portraits={
+			civilian={
+				large="GFX_portrait_tjk_azarkhsh_siamak_large"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			traits = {  }
+			desc = TJK_AZARKSH_SIAMAK_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

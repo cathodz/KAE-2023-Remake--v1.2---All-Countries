@@ -1,0 +1,16 @@
+characters={
+	AIR_bilal_faizu={
+		name=AIR_CHARACTER_BILAL_FAIZU
+		portraits={
+			civilian={
+				large="GFX_portrait_air_bilal_faizu_large"
+			}
+		}
+		country_leader={
+			ideology=anocracy
+			traits = {  }
+			desc = AIR_BILAL_FAIZU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

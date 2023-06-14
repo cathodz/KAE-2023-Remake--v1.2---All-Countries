@@ -1,0 +1,23 @@
+state={
+	id=888
+	name="STATE_888"
+	manpower = 885237
+	state_category = pastoral 
+
+	history = {
+		owner = ZAI
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ZAI
+
+	}
+
+	provinces={
+		1731 2024 4128 7716 8016 9986 10858 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

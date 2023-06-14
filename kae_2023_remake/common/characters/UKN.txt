@@ -1,0 +1,16 @@
+characters={
+	UKN_maksym_borysovych_karpenko={
+		name=UKN_CHARACTER_MAKSYM_BORYSOVYCH_KARPENKO
+		portraits={
+			civilian={
+				large="GFX_portrait_ukn_maksym_borysovych_karpenko_large"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = {  }
+			desc = UKN_MAKSYM_BORYSOVYCH_KARPENKO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	CST_juan_parda={
+		name=CST_CHARACTER_JUAN_PARDA
+		portraits={
+			civilian={
+				large="GFX_portrait_cst_juan_parda_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = CST_JUAN_PARDA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

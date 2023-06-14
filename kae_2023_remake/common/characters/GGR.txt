@@ -1,0 +1,16 @@
+characters={
+	GGR_finn_hoffman={
+		name=GGR_CHARACTER_FINN_HOFFMAN
+		portraits={
+			civilian={
+				large="GFX_portrait_ggr_finn_hoffman_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = GGR_FINN_HOFFMAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

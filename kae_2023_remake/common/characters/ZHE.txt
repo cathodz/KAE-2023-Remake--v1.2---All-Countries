@@ -1,0 +1,16 @@
+characters={
+	ZHE_shi_huang={
+		name=ZHE_CHARACTER_SHI_HUANG
+		portraits={
+			civilian={
+				large="GFX_portrait_zhe_shi_huang_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = ZHE_SHI_HUANG_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

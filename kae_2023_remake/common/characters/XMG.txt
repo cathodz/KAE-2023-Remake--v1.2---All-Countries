@@ -1,0 +1,16 @@
+characters={
+	XMG_hu_liqiang={
+		name=XMG_CHARACTER_HU_LIQIANG
+		portraits={
+			civilian={
+				large="GFX_portrait_xmg_hu_liqiang_large"
+			}
+		}
+		country_leader={
+			ideology=corporatism
+			traits = {  }
+			desc = XMG_HU_LIQIANG_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,30 @@
+
+state={
+	id=913
+	name="STATE_913"
+	manpower = 71020
+	state_category = pastoral
+
+	history={
+		owner = HER
+		add_core_of = NAM
+		add_core_of = HER
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			7770 1 
+		}
+
+
+	}
+
+	provinces={
+		7770 
+	}
+	
+	buildings_max_level_factor=1.000
+	
+	local_supplies=0.000
+}

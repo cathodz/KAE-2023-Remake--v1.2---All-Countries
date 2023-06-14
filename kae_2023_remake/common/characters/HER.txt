@@ -1,0 +1,16 @@
+characters={
+	HER_johannes_okonkwo={
+		name=HER_CHARACTER_JOHANNES_OKONKWO
+		portraits={
+			civilian={
+				large="GFX_portrait_her_johannes_okonkwo_large"
+			}
+		}
+		country_leader={
+			ideology=partisan_movement
+			traits = {  }
+			desc = HER_JOHANNES_OKONKWO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

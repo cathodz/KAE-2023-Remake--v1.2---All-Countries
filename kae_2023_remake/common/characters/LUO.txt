@@ -1,0 +1,16 @@
+characters={
+	LUO_faraji_boro={
+		name=LUO_CHARACTER_FARAJI_BORO
+		portraits={
+			civilian={
+				large="GFX_portrait_luo_faraji_boro_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = LUO_FARAJI_BORO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

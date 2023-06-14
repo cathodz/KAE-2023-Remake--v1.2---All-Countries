@@ -1,0 +1,232 @@
+bookmarks = {
+	bookmark = {
+		name = "Looming Threats"
+		desc = "2328_BOOKMARK_LOC"
+		date = 2328.1.1.12
+		picture = "GFX_kae_bookmark"
+		default_country = "ETR"
+		default = yes
+	
+		### MAJORS ###
+	
+		GGR = {
+			history = GGR_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		GAL = {
+			history = GAL_KAE_DESC_LOC
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		GSF = {
+			history = GSF_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		NAR = {
+			history = NAR_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		INC = {
+			history = INC_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}	
+		PIE = {
+			history = PIE_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		ETR = {
+			history = ETR_KAE_DESC_LOC
+			ideology = democratic
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		### MINORS ###
+
+		"ORA"={
+			minor = yes
+			history = "ORA_LOOMING_THREATS_DESC_LOC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"DEL"={
+			minor = yes
+			history = "DEL_LOOMING_THREATS_DESC_LOC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}	
+		"HNG"={
+			minor = yes
+			history = "HNG_LOOMING_THREATS_DESC_LOC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"ZAP"={
+			minor = yes
+			history = "ZAP_LOOMING_THREATS_DESC_LOC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"PLD"={
+			minor = yes
+			history = "PLD_LOOMING_THREATS_DESC_LOC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"BLG"={
+			minor = yes
+			history = "BLG_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"YGS"={
+			minor = yes
+			history = "YGS_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"HEL"={
+			minor = yes
+			history = "HEL_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"TNR"={
+			minor = yes
+			history = "TNR_LOOMING_THREATS_DESC_LOC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}	
+		"EGL"={
+			minor = yes
+			history = "EGL_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}	
+		"BYZ"={
+			minor = yes
+			history = "BYZ_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}		
+		"JPN"={
+			minor = yes
+			history = "JPN_LOOMING_THREATS_DESC_LOC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}	
+		"CAU"={
+			minor = yes
+			history = "CAU_LOOMING_THREATS_DESC_LOC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}				
+	}
+}

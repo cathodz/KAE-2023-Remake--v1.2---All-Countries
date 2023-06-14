@@ -1,0 +1,16 @@
+characters={
+	ICL_berent_austarsson={
+		name=ICL_CHARACTER_BERENT_AUSTARSSON
+		portraits={
+			civilian={
+				large="GFX_portrait_icl_berent_austarsson_large"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			traits = {  }
+			desc = ICL_BERENT_AUSTARSSON_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

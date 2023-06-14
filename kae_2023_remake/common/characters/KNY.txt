@@ -1,0 +1,16 @@
+characters={
+	KNY_ahmed_ibori={
+		name=KNY_CHARACTER_AHMED_IBORI
+		portraits={
+			civilian={
+				large="GFX_portrait_kny_ahmed_ibori_large"
+			}
+		}
+		country_leader={
+			ideology=anocracy
+			traits = {  }
+			desc = KNY_AHMED_IBORI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

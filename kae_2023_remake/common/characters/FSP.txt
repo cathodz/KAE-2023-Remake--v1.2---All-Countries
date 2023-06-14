@@ -1,0 +1,16 @@
+characters={
+	FSP_gerardo_piñón={
+		name=FSP_CHARACTER_GERARDO_PINON
+		portraits={
+			civilian={
+				large="GFX_portrait_fsp_gerardo_piñón_large"
+			}
+		}
+		country_leader={
+			ideology=controlled_democracy
+			traits = {  }
+			desc = FSP_GERARDO_PINON_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	SIM_nimman_kongpaisarn={
+		name=SIM_CHARACTER_NIMMAN_KONGPAISARN
+		portraits={
+			civilian={
+				large="GFX_portrait_sim_nimman_kongpaisarn_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = SIM_NIMMAN_KONGPAISARN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

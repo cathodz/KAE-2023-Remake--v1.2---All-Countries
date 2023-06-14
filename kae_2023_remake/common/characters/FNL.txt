@@ -1,0 +1,16 @@
+characters={
+	FNL_erno_virtanen={
+		name=FNL_CHARACTER_ERNO_VIRTANEN
+		portraits={
+			civilian={
+				large="GFX_portrait_fnl_erno_virtanen_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = FNL_ERNO_VIRTANEN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

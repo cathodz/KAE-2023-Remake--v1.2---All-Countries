@@ -1,0 +1,16 @@
+characters={
+	MUS_salih_rahimi={
+		name=MUS_CHARACTER_SALIH_RAHIMI
+		portraits={
+			civilian={
+				large="GFX_portrait_mus_salih_rahimi_large"
+			}
+		}
+		country_leader={
+			ideology=islamic_progressivism
+			traits = {  }
+			desc = MUS_SALIH_RAHIMI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	WAL_sieffre_wren={
+		name=WAL_CHARACTER_SIEFFRE_WREN
+		portraits={
+			civilian={
+				large="GFX_portrait_wal_sieffre_wren_large"
+			}
+		}
+		country_leader={
+			ideology=moderatism
+			traits = {  }
+			desc = WAL_SIEFFRE_WREN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

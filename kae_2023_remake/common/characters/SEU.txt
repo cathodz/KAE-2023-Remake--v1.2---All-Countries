@@ -1,0 +1,16 @@
+characters={
+	SEU_kieran_foster={
+		name=SEU_CHARACTER_KIERAN_FOSTER
+		portraits={
+			civilian={
+				large="GFX_portrait_seu_kieran_foster_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = SEU_KIERAN_FOSTER_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

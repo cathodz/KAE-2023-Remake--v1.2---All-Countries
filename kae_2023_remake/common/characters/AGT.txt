@@ -1,0 +1,16 @@
+characters={
+	AGT_andrés_de_la_pena={
+		name=AGT_CHARACTER_ANDRES_DE_LA_PENA
+		portraits={
+			civilian={
+				large="GFX_portrait_agt_andrés_de_la_pena_large"
+			}
+		}
+		country_leader={
+			ideology=controlled_democracy
+			traits = {  }
+			desc = AGT_ANDRES_DE_LA_PENA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

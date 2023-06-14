@@ -1,0 +1,16 @@
+characters={
+	DSM_mudiwa_babajide={
+		name=DSM_CHARACTER_MUDIWA_BABAJIDE
+		portraits={
+			civilian={
+				large="GFX_portrait_dsm_mudiwa_babajide_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = DSM_MUDIWA_BABAJIDE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

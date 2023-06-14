@@ -1,0 +1,823 @@
+spriteTypes = {
+
+### MAIN
+
+# Eternal Realm
+	spriteType = {
+		name = "GFX_portrait_etr_ozul_marduk_large"
+		texturefile = "gfx/leaders/ETR/portrait_large_ozul_marduk.dds"
+	}
+# North American Reich
+	spriteType = {
+		name = "GFX_portrait_nar_gotthilf_large"
+		texturefile = "gfx/leaders/NAR/portrait_large_gotthilf.dds"
+	}	
+# Galactist Russian Empire
+	spriteType = {
+		name = "GFX_portrait_gal_romanov_large"
+		texturefile = "gfx/leaders/GAL/portrait_large_romanov.dds"
+	}	
+# Caucasia
+	spriteType = {
+		name = "GFX_portrait_cau_aran_large"
+		texturefile = "gfx/leaders/CAU/portrait_large_aran.dds"
+	}	
+# Tanrik
+	spriteType = {
+		name = "GFX_portrait_tnr_makel_afar_large"
+		texturefile = "gfx/leaders/TNR/portrait_large_makel_afar.dds"
+	}	
+# Xovreko
+	spriteType = {
+		name = "GFX_portrait_xov_attikou_fengari_large"
+		texturefile = "gfx/leaders/XOV/portrait_large_attikou_fengari.dds"
+	}	
+# Indochinese Commonwealth
+	spriteType = {
+		name = "GFX_portrait_inc_nguyen_quang_khac_large"
+		texturefile = "gfx/leaders/INC/portrait_large_nguyen_quang_khac.dds"
+	}	
+# Hellenic Empire
+	spriteType = {
+		name = "GFX_portrait_hel_caesar_valentinianus_large"
+		texturefile = "gfx/leaders/HEL/portrait_large_caesar_valentinianus.dds"
+	}			
+# Byzantine Australia
+	spriteType = {
+		name = "GFX_portrait_byz_alexios_vii_large"
+		texturefile = "gfx/leaders/BYZ/portrait_large_alexios_vii.dds"
+	}		
+# Francia
+	spriteType = {
+		name = "GFX_portrait_gsf_alessio_priuli_large"
+		texturefile = "gfx/leaders/GSF/portrait_large_alessio_priuli.dds"
+	}
+# Great German Reich
+	spriteType = {
+		name = "GFX_portrait_ggr_finn_hoffman_large"
+		texturefile = "gfx/leaders/GGR/portrait_large_finn_hoffman.dds"
+	}		
+# Piedmont
+	spriteType = {
+		name = "GFX_portrait_pie_aldolo_mattenzi_large"
+		texturefile = "gfx/leaders/PIE/portrait_large_aldolo_mattenzi.dds"
+	}			
+# Commonwealth Exiled Administration
+	spriteType = {
+		name = "GFX_portrait_rca_khasan_paskal_large"
+		texturefile = "gfx/leaders/rca/portrait_large_khasan_paskal.dds"
+	}			
+
+### EUROPE
+
+# Delvalle
+	spriteType = {
+		name = "GFX_portrait_del_empress_darcy_large"
+		texturefile = "gfx/leaders/del/portrait_large_empress_darcy.dds"
+	}			
+# Orange Empire
+	spriteType = {
+		name = "GFX_portrait_ora_charles-phillippe_d'orleans_large"
+		texturefile = "gfx/leaders/ora/portrait_large_charles-phillippe_d'orleans.dds"
+	}			
+# Yugoslavia
+	spriteType = {
+		name = "GFX_portrait_ygs_boris_seltiz_large"
+		texturefile = "gfx/leaders/ygs/portrait_large_boris_seltiz.dds"
+	}			
+# Bulgaria
+	spriteType = {
+		name = "GFX_portrait_blg_gavril_vanko_large"
+		texturefile = "gfx/leaders/blg/portrait_large_gavril_vanko.dds"
+	}		
+# Romania
+	spriteType = {
+		name = "GFX_portrait_rmn_reinhart_fletcher_large"
+		texturefile = "gfx/leaders/rmn/portrait_large_reinhart_fletcher.dds"
+	}		
+# Albania
+	spriteType = {
+		name = "GFX_portrait_abn_mark_luka_large"
+		texturefile = "gfx/leaders/abn/portrait_large_mark_luka.dds"
+	}		
+# Hungary
+	spriteType = {
+		name = "GFX_portrait_hng_united_nations_committee_large"
+		texturefile = "gfx/leaders/hng/portrait_large_united_nations_committee.dds"
+	}	
+# Zapadoslavia
+	spriteType = {
+		name = "GFX_portrait_zap_algavri_francesco_large"
+		texturefile = "gfx/leaders/zap/portrait_large_algavri_francesco.dds"
+	}		
+# Poland
+	spriteType = {
+		name = "GFX_portrait_pld_mitchell_guerra_large"
+		texturefile = "gfx/leaders/pld/portrait_large_mitchell_guerra.dds"
+	}	
+# Lithuania
+	spriteType = {
+		name = "GFX_portrait_lth_bernardas_grikala_large"
+		texturefile = "gfx/leaders/lth/portrait_large_bernardas_grikala.dds"
+	}	
+# Latvia
+	spriteType = {
+		name = "GFX_portrait_ltv_ikars_alksnis_large"
+		texturefile = "gfx/leaders/ltv/portrait_large_ikars_alksnis.dds"
+	}	
+# Estonia
+	spriteType = {
+		name = "GFX_portrait_esn_zlatomir_bukovski_large"
+		texturefile = "gfx/leaders/esn/portrait_large_zlatomir_bukovski.dds"
+	}		
+# Sweden
+	spriteType = {
+		name = "GFX_portrait_swd_stefan_lundberg_large"
+		texturefile = "gfx/leaders/swd/portrait_large_stefan_lundberg.dds"
+	}	
+# Finland
+	spriteType = {
+		name = "GFX_portrait_fnl_erno_virtanen_large"
+		texturefile = "gfx/leaders/fnl/portrait_large_erno_virtanen.dds"
+	}	
+# England
+	spriteType = {
+		name = "GFX_portrait_egl_belgrado_i_large"
+		texturefile = "gfx/leaders/egl/portrait_large_belgrado_i.dds"
+	}		
+# Wales
+	spriteType = {
+		name = "GFX_portrait_wal_sieffre_wren_large"
+		texturefile = "gfx/leaders/wal/portrait_large_sieffre_wren.dds"
+	}			
+# Scotland
+	spriteType = {
+		name = "GFX_portrait_sct_lyall_knox_large"
+		texturefile = "gfx/leaders/sct/portrait_large_lyall_knox.dds"
+	}		
+# Ireland
+	spriteType = {
+		name = "GFX_portrait_irl_klemens_siegert_large"
+		texturefile = "gfx/leaders/irl/portrait_large_klemens_siegert.dds"
+	}		
+# Ukraine
+	spriteType = {
+		name = "GFX_portrait_ukn_maksym_borysovych_karpenko_large"
+		texturefile = "gfx/leaders/ukn/portrait_large_maksym_borysovych_karpenko.dds"
+	}		
+# Caucasian Spain
+	spriteType = {
+		name = "GFX_portrait_spn_borut_soloviev_large"
+		texturefile = "gfx/leaders/spn/portrait_large_borut_soloviev.dds"
+	}		
+# Iceland
+	spriteType = {
+		name = "GFX_portrait_icl_berent_austarsson_large"
+		texturefile = "gfx/leaders/icl/portrait_large_berent_austarsson.dds"
+	}		
+# Catalonia
+	spriteType = {
+		name = "GFX_portrait_ctl_alan_palacio_large"
+		texturefile = "gfx/leaders/ctl/portrait_large_alan_palacio.dds"
+	}			
+# Galicia
+	spriteType = {
+		name = "GFX_portrait_gla_mateo_lacasa_large"
+		texturefile = "gfx/leaders/gla/portrait_large_mateo_lacasa.dds"
+	}			
+# French Spain
+	spriteType = {
+		name = "GFX_portrait_fsp_gerardo_piñón_large"
+		texturefile = "gfx/leaders/fsp/portrait_large_gerardo_piñón.dds"
+	}	
+# Denmark
+	spriteType = {
+		name = "GFX_portrait_dnm_niels_skovgaard_large"
+		texturefile = "gfx/leaders/dnm/portrait_large_niels_skovgaard.dds"
+	}		
+# Gibraltar
+	spriteType = {
+		name = "GFX_portrait_gbr_louis_perrault_large"
+		texturefile = "gfx/leaders/gbr/portrait_large_louis_perrault.dds"
+	}		
+# Piedmontese Spain
+	spriteType = {
+		name = "GFX_portrait_psp_emilio_de_la_torre_large"
+		texturefile = "gfx/leaders/psp/portrait_large_emilio_de_la_torre.dds"
+	}			
+# Norway
+	spriteType = {
+		name = "GFX_portrait_nwy_pal_torkelson_large"
+		texturefile = "gfx/leaders/nwy/portrait_large_pal_torkelson.dds"
+	}			
+
+
+
+### AMERICAS
+
+# Yukon
+	spriteType = {
+		name = "GFX_portrait_yuk_adam_mcgullin_large"
+		texturefile = "gfx/leaders/yuk/portrait_large_adam_mcgullin.dds"
+	}		
+# Nunavut
+	spriteType = {
+		name = "GFX_portrait_nun_akluitok_unalaq_large"
+		texturefile = "gfx/leaders/nun/portrait_large_akluitok_unalaq.dds"
+	}		
+# Calabria
+	spriteType = {
+		name = "GFX_portrait_cal_berengar_vecoli_large"
+		texturefile = "gfx/leaders/cal/portrait_large_berengar_vecoli.dds"
+	}		
+# Caribbean Commonwealth
+	spriteType = {
+		name = "GFX_portrait_mer_nathan_march_large"
+		texturefile = "gfx/leaders/mer/portrait_large_nathan_march.dds"
+	}	
+# Guatemala
+	spriteType = {
+		name = "GFX_portrait_gtm_antonio_fernan_large"
+		texturefile = "gfx/leaders/gtm/portrait_large_antonio_fernan.dds"
+	}	
+# Costa Rica
+	spriteType = {
+		name = "GFX_portrait_cst_juan_parda_large"
+		texturefile = "gfx/leaders/cst/portrait_large_juan_parda.dds"
+	}		
+# Panama
+	spriteType = {
+		name = "GFX_portrait_pnm_martin_aleman_large"
+		texturefile = "gfx/leaders/pnm/portrait_large_martin_aleman.dds"
+	}		
+# Yucatan
+	spriteType = {
+		name = "GFX_portrait_yuc_yucatan_administrative_council_large"
+		texturefile = "gfx/leaders/yuc/portrait_large_yucatan_administrative_council.dds"
+	}		
+# Hispaniola
+	spriteType = {
+		name = "GFX_portrait_hsp_jorge_espinoza_large"
+		texturefile = "gfx/leaders/hsp/portrait_large_jorge_espinoza.dds"
+	}			
+# Greenland
+	spriteType = {
+		name = "GFX_portrait_fca_allied_arctic_administration_large"
+		texturefile = "gfx/leaders/fca/portrait_large_allied_arctic_administration.dds"
+	}		
+# Golden Eagle Commune
+	spriteType = {
+		name = "GFX_portrait_gec_león_jewett_madera_large"
+		texturefile = "gfx/leaders/gec/portrait_large_león_jewett_madera.dds"
+	}		
+# Guerrero
+	spriteType = {
+		name = "GFX_portrait_gue_sacramento_mendoza_large"
+		texturefile = "gfx/leaders/gue/portrait_large_sacramento_mendoza.dds"
+	}			
+# Uruguay
+	spriteType = {
+		name = "GFX_portrait_uru_aaron_tenorio_large"
+		texturefile = "gfx/leaders/uru/portrait_large_aaron_tenorio.dds"
+	}	
+# Argentina
+	spriteType = {
+		name = "GFX_portrait_agt_andrés_de_la_pena_large"
+		texturefile = "gfx/leaders/agt/portrait_large_andrés_de_la_pena.dds"
+	}	
+# North Chiletina
+	spriteType = {
+		name = "GFX_portrait_ncl_lautaro_aparicio_large"
+		texturefile = "gfx/leaders/ncl/portrait_large_lautaro_aparicio.dds"
+	}		
+# South Chiletina
+	spriteType = {
+		name = "GFX_portrait_scl_miriam_taris_large"
+		texturefile = "gfx/leaders/scl/portrait_large_miriam_taris.dds"
+	}			
+# Quebec
+	spriteType = {
+		name = "GFX_portrait_que_zenta_shera_large"
+		texturefile = "gfx/leaders/que/portrait_large_zenta_shera.dds"
+	}				
+
+### AMERICAS - NOT ON MAP
+
+# Quintana Roo
+	spriteType = {
+		name = "GFX_portrait_qtr_leonardo_the_almighty_large"
+		texturefile = "gfx/leaders/qtr/portrait_large_leonardo_the_almighty.dds"
+	}			
+# Southeast Union
+	spriteType = {
+		name = "GFX_portrait_seu_kieran_foster_large"
+		texturefile = "gfx/leaders/seu/portrait_large_kieran_foster.dds"
+	}			
+
+### AFRICA
+
+# Morocco
+	spriteType = {
+		name = "GFX_portrait_mrc_habid_rasheed_large"
+		texturefile = "gfx/leaders/mrc/portrait_large_habid_rasheed.dds"
+	}			
+# Al Jazain
+	spriteType = {
+		name = "GFX_portrait_alj_reyhan_saba_large"
+		texturefile = "gfx/leaders/alj/portrait_large_reyhan_saba.dds"
+	}		
+# Anarchist Communes of the Sahara
+	spriteType = {
+		name = "GFX_portrait_sah_anarchist_society_large"
+		texturefile = "gfx/leaders/sah/portrait_large_anarchist_society.dds"
+	}		
+# Jolof Confederacy
+	spriteType = {
+		name = "GFX_portrait_jol_alsane_diawara_large"
+		texturefile = "gfx/leaders/jol/portrait_large_alsane_diawara.dds"
+	}		
+# State of Azawad
+	spriteType = {
+		name = "GFX_portrait_aza_izil_warani_large"
+		texturefile = "gfx/leaders/aza/portrait_large_izil_warani.dds"
+	}		
+# Wassoulou State
+	spriteType = {
+		name = "GFX_portrait_was_amadu_kabelo_large"
+		texturefile = "gfx/leaders/was/portrait_large_amadu_kabelo.dds"
+	}		
+# Dynastic State of Mali
+	spriteType = {
+		name = "GFX_portrait_dsm_mudiwa_babajide_large"
+		texturefile = "gfx/leaders/dsm/portrait_large_mudiwa_babajide.dds"
+	}		
+# Republic of Mossiland
+	spriteType = {
+		name = "GFX_portrait_mos_kamili_iweala_large"
+		texturefile = "gfx/leaders/mos/portrait_large_kamili_iweala.dds"
+	}		
+# Hausa Commune
+	spriteType = {
+		name = "GFX_portrait_hau_jamal_asari-dokubo_large"
+		texturefile = "gfx/leaders/hau/portrait_large_jamal_asari-dokubo.dds"
+	}		
+# United Ashanti Republics
+	spriteType = {
+		name = "GFX_portrait_ash_jelani_eze_large"
+		texturefile = "gfx/leaders/ash/portrait_large_jelani_eze.dds"
+	}		
+# People's Republic of Dahomey
+	spriteType = {
+		name = "GFX_portrait_dho_asante_igbinedion_large"
+		texturefile = "gfx/leaders/dho/portrait_large_asante_igbinedion.dds"
+	}	
+# Dominion of Aïr
+	spriteType = {
+		name = "GFX_portrait_air_bilal_faizu_large"
+		texturefile = "gfx/leaders/air/portrait_large_bilal_faizu.dds"
+	}	
+# Kanembu Emirate
+	spriteType = {
+		name = "GFX_portrait_kan_muhsin_bulu_large"
+		texturefile = "gfx/leaders/kan/portrait_large_muhsin_bulu.dds"
+	}	
+# Bêafrika
+	spriteType = {
+		name = "GFX_portrait_bea_akida_ofakor_large"
+		texturefile = "gfx/leaders/bea/portrait_large_akida_ofakor.dds"
+	}	
+# Nigeria
+	spriteType = {
+		name = "GFX_portrait_ngi_chane_khamani_large"
+		texturefile = "gfx/leaders/ngi/portrait_large_chane_khamani.dds"
+	}	
+# Zaire
+	spriteType = {
+		name = "GFX_portrait_zai_andre_ngoy_large"
+		texturefile = "gfx/leaders/zai/portrait_large_andre_ngoy.dds"
+	}	
+# Azandeland
+	spriteType = {
+		name = "GFX_portrait_azn_tendaji_ojukwu_large"
+		texturefile = "gfx/leaders/azn/portrait_large_tendaji_ojukwu.dds"
+	}	
+# MPLA
+	spriteType = {
+		name = "GFX_portrait_mpl_kibwe_ironsi_large"
+		texturefile = "gfx/leaders/mpl/portrait_large_kibwe_ironsi.dds"
+	}	
+# Zambezia
+	spriteType = {
+		name = "GFX_portrait_zmb_jata_nzeogwu_large"
+		texturefile = "gfx/leaders/zmb/portrait_large_jata_nzeogwu.dds"
+	}	
+# Rhodesia
+	spriteType = {
+		name = "GFX_portrait_rhd_hanisi_obasanjo_large"
+		texturefile = "gfx/leaders/rhd/portrait_large_hanisi_obasanjo.dds"
+	}	
+# Bechuanaland
+	spriteType = {
+		name = "GFX_portrait_bec_safiri_jakande_large"
+		texturefile = "gfx/leaders/bec/portrait_large_safiri_jakande.dds"
+	}	
+# South Africa
+	spriteType = {
+		name = "GFX_portrait_rsa_jacques_van_rensburg_large"
+		texturefile = "gfx/leaders/rsa/portrait_large_jacques_van_rensburg.dds"
+	}	
+# Transkei
+	spriteType = {
+		name = "GFX_portrait_tsk_arno_reid_large"
+		texturefile = "gfx/leaders/tsk/portrait_large_arno_reid.dds"
+	}	
+# Mozambia
+	spriteType = {
+		name = "GFX_portrait_moz_jela_danjuma_large"
+		texturefile = "gfx/leaders/moz/portrait_large_jela_danjuma.dds"
+	}	
+# Nyasaland
+	spriteType = {
+		name = "GFX_portrait_nya_idi_egwu_large"
+		texturefile = "gfx/leaders/nya/portrait_large_idi_egwu.dds"
+	}	
+# Tanganyika
+	spriteType = {
+		name = "GFX_portrait_tny_jaleel_balogun_large"
+		texturefile = "gfx/leaders/tny/portrait_large_jaleel_balogun.dds"
+	}	
+# Ruanda-Urundi
+	spriteType = {
+		name = "GFX_portrait_rua_hodari_olanrewaju_large"
+		texturefile = "gfx/leaders/rua/portrait_large_hodari_olanrewaju.dds"
+	}	
+# Uganda
+	spriteType = {
+		name = "GFX_portrait_ugd_badru_solarin_large"
+		texturefile = "gfx/leaders/ugd/portrait_large_badru_solarin.dds"
+	}	
+# Luoland
+	spriteType = {
+		name = "GFX_portrait_luo_faraji_boro_large"
+		texturefile = "gfx/leaders/luo/portrait_large_faraji_boro.dds"
+	}	
+# Kenya
+	spriteType = {
+		name = "GFX_portrait_kny_ahmed_ibori_large"
+		texturefile = "gfx/leaders/kny/portrait_large_ahmed_ibori.dds"
+	}	
+# Malagasy
+	spriteType = {
+		name = "GFX_portrait_mlg_odon_randriamaro_large"
+		texturefile = "gfx/leaders/mlg/portrait_large_odon_randriamaro.dds"
+	}	
+# Socotra
+	spriteType = {
+		name = "GFX_portrait_soc_saffiya_kamal_large"
+		texturefile = "gfx/leaders/soc/portrait_large_saffiya_kamal.dds"
+	}	
+# Somalia
+	spriteType = {
+		name = "GFX_portrait_sml_commander_xabanisile_large"
+		texturefile = "gfx/leaders/sml/portrait_large_commander_xabanisile.dds"
+	}
+
+### AFRICA - NOT ON MAP
+
+# Cameroon
+	spriteType = {
+		name = "GFX_portrait_cmn_kibwe_kalu_large"
+		texturefile = "gfx/leaders/cmn/portrait_large_kibwe_kalu.dds"
+	}	
+# Gabon
+	spriteType = {
+		name = "GFX_portrait_gbn_tembo_saro-wiwa_large"
+		texturefile = "gfx/leaders/gbn/portrait_large_tembo_saro-wiwa.dds"
+	}		
+# Ovamboland
+	spriteType = {
+		name = "GFX_portrait_ova_siwatu_buhari_large"
+		texturefile = "gfx/leaders/ova/portrait_large_siwatu_buhari.dds"
+	}
+# Namibia
+	spriteType = {
+		name = "GFX_portrait_nam_khiry_jomo-gbomo_large"
+		texturefile = "gfx/leaders/nam/portrait_large_khiry_jomo-gbomo.dds"
+	}	
+# Ajuran
+	spriteType = {
+		name = "GFX_portrait_aju_adham_guler_large"
+		texturefile = "gfx/leaders/aju/portrait_large_adham_guler.dds"
+	}			
+
+### ASIA
+
+# Arabia
+	spriteType = {
+		name = "GFX_portrait_ara_taslim_alam_large"
+		texturefile = "gfx/leaders/ara/portrait_large_taslim_alam.dds"
+	}	
+# Khuzestan
+	spriteType = {
+		name = "GFX_portrait_khu_nusair_mahmood_large"
+		texturefile = "gfx/leaders/khu/portrait_large_nusair_mahmood.dds"
+	}	
+# Iran
+	spriteType = {
+		name = "GFX_portrait_ira_mansur_abbasi_large"
+		texturefile = "gfx/leaders/ira/portrait_large_mansur_abbasi.dds"
+	}	
+# Persia
+	spriteType = {
+		name = "GFX_portrait_prs_zimraan_ahmadi_large"
+		texturefile = "gfx/leaders/prs/portrait_large_zimraan_ahmadi.dds"
+	}	
+# Azeri
+	spriteType = {
+		name = "GFX_portrait_aze_aram_pashia_large"
+		texturefile = "gfx/leaders/aze/portrait_large_aram_pashia.dds"
+	}	
+# Balochistan
+	spriteType = {
+		name = "GFX_portrait_bal_rafi_ibrahim_large"
+		texturefile = "gfx/leaders/bal/portrait_large_rafi_ibrahim.dds"
+	}	
+# Caspiastan
+	spriteType = {
+		name = "GFX_portrait_cas_yusef_mian_large"
+		texturefile = "gfx/leaders/cas/portrait_large_yusef_mian.dds"
+	}	
+# Pavlodar
+	spriteType = {
+		name = "GFX_portrait_pav_kuvayev_valentinovich_large"
+		texturefile = "gfx/leaders/pav/portrait_large_kuvayev_valentinovich.dds"
+	}	
+# Kyrgyzstan
+	spriteType = {
+		name = "GFX_portrait_kyg_zhantoro_kubanychbek_large"
+		texturefile = "gfx/leaders/kyg/portrait_large_zhantoro_kubanychbek.dds"
+	}	
+# Tajikistan
+	spriteType = {
+		name = "GFX_portrait_tjk_azarkhsh_siamak_large"
+		texturefile = "gfx/leaders/tjk/portrait_large_azarkhsh_siamak.dds"
+	}	
+# Pakistan
+	spriteType = {
+		name = "GFX_portrait_pks_yavar_sadozai_large"
+		texturefile = "gfx/leaders/pks/portrait_large_yavar_sadozai.dds"
+	}	
+# Rajahsthan
+	spriteType = {
+		name = "GFX_portrait_rjs_chandan_kari_large"
+		texturefile = "gfx/leaders/rjs/portrait_large_chandan_kari.dds"
+	}	
+# India
+	spriteType = {
+		name = "GFX_portrait_ind_ajay_rattan_large"
+		texturefile = "gfx/leaders/ind/portrait_large_ajay_rattan.dds"
+	}	
+# SFR India
+	spriteType = {
+		name = "GFX_portrait_sfr_mahendra_ravi_large"
+		texturefile = "gfx/leaders/sfr/portrait_large_mahendra_ravi.dds"
+	}	
+# Serene Indian Provinces
+	spriteType = {
+		name = "GFX_portrait_sip_jayesh_kalita_large"
+		texturefile = "gfx/leaders/sip/portrait_large_jayesh_kalita.dds"
+	}	
+# Bhutan
+	spriteType = {
+		name = "GFX_portrait_btn_dolkar_mingyur_large"
+		texturefile = "gfx/leaders/btn/portrait_large_dolkar_mingyur.dds"
+	}	
+# Vengalia
+	spriteType = {
+		name = "GFX_portrait_vng_nikolas_papakostas_large"
+		texturefile = "gfx/leaders/vng/portrait_large_nikolas_papakostas.dds"
+	}	
+# Nagaland
+	spriteType = {
+		name = "GFX_portrait_nag_akshay_patla_large"
+		texturefile = "gfx/leaders/nag/portrait_large_akshay_patla.dds"
+	}	
+# Burma
+	spriteType = {
+		name = "GFX_portrait_bma_they_phyo_large"
+		texturefile = "gfx/leaders/bma/portrait_large_they_phyo.dds"
+	}	
+# Siam
+	spriteType = {
+		name = "GFX_portrait_sim_nimman_kongpaisarn_large"
+		texturefile = "gfx/leaders/sim/portrait_large_nimman_kongpaisarn.dds"
+	}	
+# Ceylon
+	spriteType = {
+		name = "GFX_portrait_cyl_yasindu_rajapaska_large"
+		texturefile = "gfx/leaders/cyl/portrait_large_yasindu_rajapaska.dds"
+	}	
+# Malaya
+	spriteType = {
+		name = "GFX_portrait_mly_nabeel_bin_adham_large"
+		texturefile = "gfx/leaders/mly/portrait_large_nabeel_bin_adham.dds"
+	}	
+# Sumatrese Union
+	spriteType = {
+		name = "GFX_portrait_suu_budi_susila_halim_large"
+		texturefile = "gfx/leaders/suu/portrait_large_budi_susila_halim.dds"
+	}	
+# Borneo
+	spriteType = {
+		name = "GFX_portrait_brn_hengki_ary_iskandar_large"
+		texturefile = "gfx/leaders/brn/portrait_large_hengki_ary_iskandar.dds"
+	}	
+# Yunnan
+	spriteType = {
+		name = "GFX_portrait_ynn_yin_xinyue_large"
+		texturefile = "gfx/leaders/ynn/portrait_large_yin_xinyue.dds"
+	}	
+# Zhegiang
+	spriteType = {
+		name = "GFX_portrait_zhe_shi_huang_large"
+		texturefile = "gfx/leaders/zhe/portrait_large_shi_huang.dds"
+	}	
+# Sichuan
+	spriteType = {
+		name = "GFX_portrait_sch_jiang_meng_large"
+		texturefile = "gfx/leaders/sch/portrait_large_jiang_meng.dds"
+	}	
+# Tibet
+	spriteType = {
+		name = "GFX_portrait_tbt_namgyal_wangchuk_large"
+		texturefile = "gfx/leaders/tbt/portrait_large_namgyal_wangchuk.dds"
+	}	
+# Xinjiang
+	spriteType = {
+		name = "GFX_portrait_xin_burhan_mijit_large"
+		texturefile = "gfx/leaders/xin/portrait_large_burhan_mijit.dds"
+	}	
+# Ma
+	spriteType = {
+		name = "GFX_portrait_maa_kang_su_large"
+		texturefile = "gfx/leaders/maa/portrait_large_kang_su.dds"
+	}	
+# Beijing
+	spriteType = {
+		name = "GFX_portrait_bei_ren_yijun_large"
+		texturefile = "gfx/leaders/bei/portrait_large_ren_yijun.dds"
+	}	
+# Xinming
+	spriteType = {
+		name = "GFX_portrait_xmg_hu_liqiang_large"
+		texturefile = "gfx/leaders/xmg/portrait_large_hu_liqiang.dds"
+	}	
+# Shandong
+	spriteType = {
+		name = "GFX_portrait_shn_li_zhihao_large"
+		texturefile = "gfx/leaders/shn/portrait_large_li_zhihao.dds"
+	}	
+# Mongolia
+	spriteType = {
+		name = "GFX_portrait_mng_alagh_yid_large"
+		texturefile = "gfx/leaders/mng/portrait_large_alagh_yid.dds"
+	}	
+# Manchuria
+	spriteType = {
+		name = "GFX_portrait_mnc_petrov_olegovich_large"
+		texturefile = "gfx/leaders/mnc/portrait_large_petrov_olegovich.dds"
+	}	
+# Japan
+	spriteType = {
+		name = "GFX_portrait_jpn_thouser_kazuma_large"
+		texturefile = "gfx/leaders/jpn/portrait_large_thouser_kazuma.dds"
+	}		
+# Maharastra
+	spriteType = {
+		name = "GFX_portrait_mah_pravin_singh_large"
+		texturefile = "gfx/leaders/mah/portrait_large_pravin_singh.dds"
+	}	
+# Lower Hejaz
+	spriteType = {
+		name = "GFX_portrait_lhj_amit_rahman_large"
+		texturefile = "gfx/leaders/lhj/portrait_large_amit_rahman.dds"
+	}		
+# Oman
+	spriteType = {
+		name = "GFX_portrait_omn_commander_xabanisile_large"
+		texturefile = "gfx/leaders/omn/portrait_large_commander_xabanisile.dds"
+	}	
+# Muscat
+	spriteType = {
+		name = "GFX_portrait_mus_salih_rahimi_large"
+		texturefile = "gfx/leaders/mus/portrait_large_salih_rahimi.dds"
+	}	
+# Indochinese Balochistan
+	spriteType = {
+		name = "GFX_portrait_ibl_kadin_azimi_large"
+		texturefile = "gfx/leaders/ibl/portrait_large_kadin_azimi.dds"
+	}		
+# Afghanistan
+	spriteType = {
+		name = "GFX_portrait_afs_sulaiman_farha_large"
+		texturefile = "gfx/leaders/afs/portrait_large_sulaiman_farha.dds"
+	}	
+# Turkestan
+	spriteType = {
+		name = "GFX_portrait_tks_umara_moradi_large"
+		texturefile = "gfx/leaders/tks/portrait_large_umara_moradi.dds"
+	}		
+# Binzhou
+	spriteType = {
+		name = "GFX_portrait_bin_lai_huo_large"
+		texturefile = "gfx/leaders/bin/portrait_large_lai_huo.dds"
+	}	
+# Dalian
+	spriteType = {
+		name = "GFX_portrait_dal_lai_huo_large"
+		texturefile = "gfx/leaders/dal/portrait_large_lai_huo.dds"
+	}	
+# Xiamen
+	spriteType = {
+		name = "GFX_portrait_xia_shreyu_large"
+		texturefile = "gfx/leaders/xia/portrait_large_shreyu.dds"
+	}		
+# Brunei
+	spriteType = {
+		name = "GFX_portrait_nbr_josiah_gulo_large"
+		texturefile = "gfx/leaders/nbr/portrait_large_josiah_gulo.dds"
+	}			
+
+### REQUIRE STATE / PROVINCE EDITING
+
+# Athos
+	spriteType = {
+		name = "GFX_portrait_ath_vardar_stefanov_todorov_large"
+		texturefile = "gfx/leaders/ath/portrait_large_vardar_stefanov_todorov.dds"
+	}		
+# Kageria
+	spriteType = {
+		name = "GFX_portrait_kag_enzi_falana_large"
+		texturefile = "gfx/leaders/kag/portrait_large_enzi_falana.dds"
+	}		
+# Rukwaland
+	spriteType = {
+		name = "GFX_portrait_ruk_hami_balewa_large"
+		texturefile = "gfx/leaders/ruk/portrait_large_hami_balewa.dds"
+	}		
+# Kasai
+	spriteType = {
+		name = "GFX_portrait_kas_salehe_akunyili_large"
+		texturefile = "gfx/leaders/kas/portrait_large_salehe_akunyili.dds"
+	}	
+# Katanga
+	spriteType = {
+		name = "GFX_portrait_kat_njowga_sekibo_large"
+		texturefile = "gfx/leaders/kat/portrait_large_njowga_sekibo.dds"
+	}	
+# Barotseland
+	spriteType = {
+		name = "GFX_portrait_bar_chui_bankole_large"
+		texturefile = "gfx/leaders/bar/portrait_large_chui_bankole.dds"
+	}	
+# Matabelelenad
+	spriteType = {
+		name = "GFX_portrait_mat_zain_akenzua_large"
+		texturefile = "gfx/leaders/mat/portrait_large_zain_akenzua.dds"
+	}	
+# Lebowaland
+	spriteType = {
+		name = "GFX_portrait_lbw_zakia_nnamani_large"
+		texturefile = "gfx/leaders/lbw/portrait_large_zakia_nnamani.dds"
+	}	
+# Hereroland
+	spriteType = {
+		name = "GFX_portrait_her_johannes_okonkwo_large"
+		texturefile = "gfx/leaders/her/portrait_large_johannes_okonkwo.dds"
+	}	
+# Aceh
+	spriteType = {
+		name = "GFX_portrait_ace_dian_ary_kusumo_large"
+		texturefile = "gfx/leaders/ace/portrait_large_dian_ary_kusumo.dds"
+	}	
+# North Sumatra
+	spriteType = {
+		name = "GFX_portrait_sum_ridwan_irwan_lesmana_large"
+		texturefile = "gfx/leaders/sum/portrait_large_ridwan_irwan_lesmana.dds"
+	}	
+# Legation Cities
+	spriteType = {
+		name = "GFX_portrait_leg_legation_council_large"
+		texturefile = "gfx/leaders/leg/portrait_large_legation_council.dds"
+	}	
+# Lemuria
+	spriteType = {
+		name = "GFX_portrait_lem_interallied_research_committee_large"
+		texturefile = "gfx/leaders/lem/portrait_large_interallied_research_committee.dds"
+	}	
+# Larissa
+	spriteType = {
+		name = "GFX_portrait_lar_kaloyan_evgeniev_tanev_large"
+		texturefile = "gfx/leaders/lar/portrait_large_kaloyan_evgeniev_tanev.dds"
+	}	
+}

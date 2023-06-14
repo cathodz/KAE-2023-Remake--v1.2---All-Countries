@@ -1,0 +1,16 @@
+characters={
+	NYA_idi_egwu={
+		name=NYA_CHARACTER_IDI_EGWU
+		portraits={
+			civilian={
+				large="GFX_portrait_nya_idi_egwu_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = NYA_IDI_EGWU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

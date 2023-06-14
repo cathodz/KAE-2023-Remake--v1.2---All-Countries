@@ -1,0 +1,16 @@
+characters={
+	BAL_rafi_ibrahim={
+		name=BAL_CHARACTER_RAFI_IBRAHIM
+		portraits={
+			civilian={
+				large="GFX_portrait_bal_rafi_ibrahim_large"
+			}
+		}
+		country_leader={
+			ideology=partisan_movement
+			traits = {  }
+			desc = BAL_RAFI_IBRAHIM_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

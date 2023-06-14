@@ -1,0 +1,16 @@
+characters={
+	QTR_leonardo_the_almighty={
+		name=QTR_CHARACTER_LEONARDO_THE_ALMIGHTY
+		portraits={
+			civilian={
+				large="GFX_portrait_qtr_leonardo_the_almighty_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = QTR_LEONARDO_THE_ALMIGHTY_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

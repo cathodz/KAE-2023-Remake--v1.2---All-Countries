@@ -1,0 +1,10 @@
+spriteTypes = {
+	frameAnimatedSpriteType = {
+		name = "GFX_leonardo_animated"
+		texturefile = "gfx/leaders/QTR/portrait_large_leonardo_the_almighty.dds"
+		noOfFrames = 26
+		animation_rate_fps = 13
+		looping = yes
+		play_on_show = yes
+	}
+}	

@@ -1,0 +1,16 @@
+characters={
+	KAS_salehe_akunyili={
+		name=KAS_CHARACTER_SALEHE_AKUNYILI
+		portraits={
+			civilian={
+				large="GFX_portrait_kas_salehe_akunyili_large"
+			}
+		}
+		country_leader={
+			ideology=pan_african_socialism
+			traits = {  }
+			desc = KAS_SALEHE_AKUNYILI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

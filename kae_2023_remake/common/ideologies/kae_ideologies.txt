@@ -1,0 +1,112 @@
+ideologies = {
+
+	accelerationism = {
+		types = {
+			cardinalism = {}
+			milanese_accelerationism = {}
+			ultranational_progressivism = {}
+			radical_accelerationism = {}
+			revanchist_accelerationism = {}
+		}
+		dynamic_faction_names = {}
+		color = { 72 48 137 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	ultraprogressivism = {
+		types = {
+			vanguardist_ultraprogressivism = {}
+			reformist_ultraprogressivism = {}
+		}
+		dynamic_faction_names = {}
+		color = { 86 80 197 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}	
+
+	progressivism = {
+		types = {
+			futurist_progressivism = {}
+			neo_progressivism = {}
+			islamic_progressivism = {}			
+		}
+		dynamic_faction_names = {}
+		color = { 106 126 209 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}		
+	
+	galactism = {
+		types = {
+			classical_galactism = {}
+			social_galactism = {}
+			neo_galactism = {}
+			utopian_galactism = {}
+			corporatist_galactism = {}
+			vanguard_galactism = {}
+			galactist_socialism = {}			
+		}
+		dynamic_faction_names = {}
+		color = { 0 158 175 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	
+	monarchism = {
+		types = {
+			absolute_monarchy = {}
+			semi_constitutional_monarchy = {}
+		}
+		dynamic_faction_names = {}
+		color = { 216 170 52 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	
+	socialism = {
+		types = {
+			neo_socialism = {}
+			socialist_populism = {}
+			pan_african_socialism = {}
+		}
+		dynamic_faction_names = {}
+		color = { 211 86 107 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}	
+	
+	technocratic = {
+		types = {
+			council_technocracy = {}
+			paternal_technocracy = {}
+		}
+		dynamic_faction_names = {}
+		color = { 168 85 235 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}		
+
+	vanguardism = {
+		types = {
+			national_vanguardism = {}
+			ultramilitarism = {}
+		}
+		dynamic_faction_names = {}
+		color = { 92 92 92 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}			
+
+	warlordism = {
+		types = {
+			military_junta = {}
+			partisan_movement = {}
+		}
+		dynamic_faction_names = {}
+		color = { 81 56 42 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}				
+
+}

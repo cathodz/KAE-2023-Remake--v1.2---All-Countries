@@ -1,0 +1,16 @@
+characters={
+	RUA_hodari_olanrewaju={
+		name=RUA_CHARACTER_HODARI_OLANREWAJU
+		portraits={
+			civilian={
+				large="GFX_portrait_rua_hodari_olanrewaju_large"
+			}
+		}
+		country_leader={
+			ideology=anocracy
+			traits = {  }
+			desc = RUA_HODARI_OLANREWAJU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

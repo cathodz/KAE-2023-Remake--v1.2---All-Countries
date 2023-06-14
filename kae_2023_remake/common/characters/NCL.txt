@@ -1,0 +1,16 @@
+characters={
+	NCL_lautaro_aparicio={
+		name=NCL_CHARACTER_LAUTARO_APARICIO
+		portraits={
+			civilian={
+				large="GFX_portrait_ncl_lautaro_aparicio_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = NCL_LAUTARO_APARICIO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

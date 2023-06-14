@@ -1,0 +1,16 @@
+characters={
+	TBT_namgyal_wangchuk={
+		name=TBT_CHARACTER_NAMGYAL_WANGCHUK
+		portraits={
+			civilian={
+				large="GFX_portrait_tbt_namgyal_wangchuk_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = TBT_NAMGYAL_WANGCHUK_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

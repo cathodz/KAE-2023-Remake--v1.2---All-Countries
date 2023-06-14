@@ -1,0 +1,16 @@
+characters={
+	SIP_jayesh_kalita={
+		name=SIP_CHARACTER_JAYESH_KALITA
+		portraits={
+			civilian={
+				large="GFX_portrait_sip_jayesh_kalita_large"
+			}
+		}
+		country_leader={
+			ideology=theocracy
+			traits = {  }
+			desc = SIP_JAYESH_KALITA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

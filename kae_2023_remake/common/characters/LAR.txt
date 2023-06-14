@@ -1,0 +1,16 @@
+characters={
+	LAR_kaloyan_evgeniev_tanev={
+		name=LAR_CHARACTER_KALOYAN_EVGENIEV_TANEV
+		portraits={
+			civilian={
+				large="GFX_portrait_lar_kaloyan_evgeniev_tanev_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = LAR_KALOYAN_EVGENIEV_TANEV_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

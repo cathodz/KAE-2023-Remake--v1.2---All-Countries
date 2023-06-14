@@ -1,0 +1,16 @@
+characters={
+	ARA_taslim_alam={
+		name=ARA_CHARACTER_TASLIM_ALAM
+		portraits={
+			civilian={
+				large="GFX_portrait_ara_taslim_alam_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = ARA_TASLIM_ALAM_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

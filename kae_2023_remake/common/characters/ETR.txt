@@ -1,0 +1,16 @@
+characters={
+	ETR_ozul_marduk={
+		name=ETR_CHARACTER_OZUL_MARDUK
+		portraits={
+			civilian={
+				large="GFX_portrait_etr_ozul_marduk_large"
+			}
+		}
+		country_leader={
+			ideology=cardinalism
+			traits = { dictator }
+			desc = ETR_OZUL_MARDUK_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

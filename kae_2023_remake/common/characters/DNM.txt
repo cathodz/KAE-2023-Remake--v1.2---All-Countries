@@ -1,0 +1,16 @@
+characters={
+	DNM_niels_skovgaard={
+		name=DNM_CHARACTER_NIELS_SKOVGAARD
+		portraits={
+			civilian={
+				large="GFX_portrait_dnm_niels_skovgaard_large"
+			}
+		}
+		country_leader={
+			ideology=socialist_populism
+			traits = {  }
+			desc = DNM_NIELS_SKOVGAARD_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

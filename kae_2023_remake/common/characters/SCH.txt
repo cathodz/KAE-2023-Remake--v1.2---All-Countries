@@ -1,0 +1,16 @@
+characters={
+	SCH_jiang_meng={
+		name=SCH_CHARACTER_JIANG_MENG
+		portraits={
+			civilian={
+				large="GFX_portrait_sch_jiang_meng_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = SCH_JIANG_MENG_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

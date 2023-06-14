@@ -1,0 +1,25 @@
+
+state={
+	id=925
+	name="STATE_925"
+	manpower = 369000
+	
+	state_category = rural
+
+	history={
+		owner = OMN
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1 
+		}
+
+		add_core_of = OMN
+	}
+
+	provinces={
+		1947 8020 
+	}
+
+	local_supplies=0.0 
+}

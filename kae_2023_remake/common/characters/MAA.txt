@@ -1,0 +1,16 @@
+characters={
+	MAA_kang_su={
+		name=MAA_CHARACTER_KANG_SU
+		portraits={
+			civilian={
+				large="GFX_portrait_maa_kang_su_large"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			traits = {  }
+			desc = MAA_KANG_SU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

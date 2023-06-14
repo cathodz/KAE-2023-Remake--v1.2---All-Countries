@@ -1,0 +1,16 @@
+characters={
+	SHN_li_zhihao={
+		name=SHN_CHARACTER_LI_ZHIHAO
+		portraits={
+			civilian={
+				large="GFX_portrait_shn_li_zhihao_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = SHN_LI_ZHIHAO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

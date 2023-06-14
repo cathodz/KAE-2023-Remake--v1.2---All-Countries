@@ -1,0 +1,16 @@
+characters={
+	DEL_empress_darcy={
+		name=DEL_CHARACTER_EMPRESS_DARCY
+		portraits={
+			civilian={
+				large="GFX_portrait_del_empress_darcy_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = DEL_EMPRESS_DARCY_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

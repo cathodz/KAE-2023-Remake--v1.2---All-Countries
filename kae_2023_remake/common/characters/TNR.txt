@@ -1,0 +1,16 @@
+characters={
+	TNR_makel_afar={
+		name=TNR_CHARACTER_MAKEL_AFAR
+		portraits={
+			civilian={
+				large="GFX_portrait_tnr_makel_afar_large"
+			}
+		}
+		country_leader={
+			ideology=fascist_autarkism
+			traits = {  }
+			desc = TNR_MAKEL_AFAR_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

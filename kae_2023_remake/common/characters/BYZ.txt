@@ -1,0 +1,16 @@
+characters={
+	BYZ_alexios_vii={
+		name=BYZ_CHARACTER_ALEXIOS_VII
+		portraits={
+			civilian={
+				large="GFX_portrait_byz_alexios_vii_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = BYZ_ALEXIOS_VII_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

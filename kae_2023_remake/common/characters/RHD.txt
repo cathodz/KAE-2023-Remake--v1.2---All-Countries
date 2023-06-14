@@ -1,0 +1,16 @@
+characters={
+	RHD_hanisi_obasanjo={
+		name=RHD_CHARACTER_HANISI_OBASANJO
+		portraits={
+			civilian={
+				large="GFX_portrait_rhd_hanisi_obasanjo_large"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {  }
+			desc = RHD_HANISI_OBASANJO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

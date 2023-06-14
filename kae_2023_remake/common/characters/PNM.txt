@@ -1,0 +1,16 @@
+characters={
+	PNM_martin_aleman={
+		name=PNM_CHARACTER_MARTIN_ALEMAN
+		portraits={
+			civilian={
+				large="GFX_portrait_pnm_martin_aleman_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = PNM_MARTIN_ALEMAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

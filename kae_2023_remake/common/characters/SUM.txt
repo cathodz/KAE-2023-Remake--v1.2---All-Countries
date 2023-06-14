@@ -1,0 +1,16 @@
+characters={
+	SUM_ridwan_irwan_lesmana={
+		name=SUM_CHARACTER_RIDWAN_IRWAN_LESMANA
+		portraits={
+			civilian={
+				large="GFX_portrait_sum_ridwan_irwan_lesmana_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = SUM_RIDWAN_IRWAN_LESMANA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

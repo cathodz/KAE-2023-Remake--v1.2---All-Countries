@@ -1,0 +1,67 @@
+ideologies = {
+
+	democratic = {
+		types = {
+			conservatism = {}
+			liberalism = {}
+			socialism = {}
+			controlled_democracy = {}
+			social_democracy = {}		
+			priulism = {}					
+		}	
+		dynamic_faction_names = {}
+		color = { 0 106 188 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	communism = {
+		types = {
+			marxism = {}
+			leninism = {}
+			stalinism = {}
+			anti_revisionism = {}
+			anarchist_communism = {}
+		}
+		dynamic_faction_names = {}
+		color = { 191 32 45 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	fascism = {
+		types = {
+			nazism = {}
+			gen_nazism = {}
+			fascism_ideology = {}
+			falangism = {}
+			rexism = {}
+			technocratic_fascism = {}
+			fascist_autarkism = {}			
+			
+		}
+		dynamic_faction_names = {}
+		color = { 145 94 50 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	neutrality = {
+		types = {
+			despotism  = {}
+			oligarchism  = {}
+			anarchism = {}
+			moderatism = {}
+			centrism = {}
+			theocracy = {}
+			corporatism = {}	
+			provisional_government = {}			
+			anocracy = {}		
+			agrarianism = {}					
+		}
+		dynamic_faction_names = {}
+		color = { 133 134 135 }
+		ai_neutral = yes
+		can_be_boosted = no	
+	}	
+}

@@ -1,0 +1,16 @@
+characters={
+	PKS_yavar_sadozai={
+		name=PKS_CHARACTER_YAVAR_SADOZAI
+		portraits={
+			civilian={
+				large="GFX_portrait_pks_yavar_sadozai_large"
+			}
+		}
+		country_leader={
+			ideology=islamic_progressivism
+			traits = {  }
+			desc = PKS_YAVAR_SADOZAI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

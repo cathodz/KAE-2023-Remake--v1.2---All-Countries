@@ -1,0 +1,27 @@
+
+state={
+	id=919
+	name="STATE_919"
+
+	history={
+		victory_points = {
+			895 3 
+		}
+		owner = ATH
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ATH
+
+	}
+
+	provinces={
+		895 
+	}
+	manpower=192
+	buildings_max_level_factor=1.000
+	state_category=enclave
+
+	local_supplies=0.0 
+}

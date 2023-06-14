@@ -1,0 +1,16 @@
+characters={
+	BTN_dolkar_mingyur={
+		name=BTN_CHARACTER_DOLKAR_MINGYUR
+		portraits={
+			civilian={
+				large="GFX_portrait_btn_dolkar_mingyur_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = BTN_dolkar_mingyur_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

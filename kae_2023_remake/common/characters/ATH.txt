@@ -1,0 +1,16 @@
+characters={
+	ATH_vardar_stefanov_todorov={
+		name=ATH_CHARACTER_VARDAR_STEFANOV_TODOROV
+		portraits={
+			civilian={
+				large="GFX_portrait_ath_vardar_stefanov_todorov_large"
+			}
+		}
+		country_leader={
+			ideology=theocracy
+			traits = {  }
+			desc = ATH_VARDAR_STEFANOV_TODOROV_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

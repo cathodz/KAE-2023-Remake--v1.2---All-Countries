@@ -1,0 +1,16 @@
+characters={
+	RUK_hami_balewa={
+		name=RUK_CHARACTER_HAMI_BALEWA
+		portraits={
+			civilian={
+				large="GFX_portrait_ruk_hami_balewa_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = RUK_HAMI_BALEWA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

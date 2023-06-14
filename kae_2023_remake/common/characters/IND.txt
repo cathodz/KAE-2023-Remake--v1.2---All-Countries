@@ -1,0 +1,16 @@
+characters={
+	IND_ajay_rattan={
+		name=IND_CHARACTER_AJAY_RATTAN
+		portraits={
+			civilian={
+				large="GFX_portrait_ind_ajay_rattan_large"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {  }
+			desc = IND_AJAY_RATTAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

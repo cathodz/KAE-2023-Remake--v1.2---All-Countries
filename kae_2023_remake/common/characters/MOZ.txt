@@ -1,0 +1,16 @@
+characters={
+	MOZ_jela_danjuma={
+		name=MOZ_CHARACTER_JELA_DANJUMA
+		portraits={
+			civilian={
+				large="GFX_portrait_moz_jela_danjuma_large"
+			}
+		}
+		country_leader={
+			ideology=futurist_progressivism
+			traits = {  }
+			desc = MOZ_JELA_DANJUMA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	MNG_alagh_yid={
+		name=MNG_CHARACTER_ALAGH_YID
+		portraits={
+			civilian={
+				large="GFX_portrait_mng_alagh_yid_large"
+			}
+		}
+		country_leader={
+			ideology=socialist_populism
+			traits = {  }
+			desc = MNG_ALAGH_YID_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

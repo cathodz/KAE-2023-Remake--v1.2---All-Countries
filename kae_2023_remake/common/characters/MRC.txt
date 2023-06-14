@@ -1,0 +1,16 @@
+characters={
+	MRC_habid_rasheed={
+		name=MRC_CHARACTER_HABID_RASHEED
+		portraits={
+			civilian={
+				large="GFX_portrait_mrc_habid_rasheed_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = MRC_HABID_RASHEED_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	ZAI_andre_ngoy={
+		name=ZAI_CHARACTER_ANDRE_NGOY
+		portraits={
+			civilian={
+				large="GFX_portrait_zai_andre_ngoy_large"
+			}
+		}
+		country_leader={
+			ideology=revanchist_accelerationism
+			traits = {  }
+			desc = ZAI_ANDRE_NGOY_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	GAL_romanov={
+		name=GAL_CHARACTER_ROMANOV
+		portraits={
+			civilian={
+				large="GFX_portrait_gal_romanov_large"
+			}
+		}
+		country_leader={
+			ideology=classical_galactism
+			traits = {  }
+			desc = GAL_ROMANOV_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

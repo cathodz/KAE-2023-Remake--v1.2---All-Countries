@@ -1,0 +1,16 @@
+characters={
+	IRL_klemens_siegert={
+		name=IRL_CHARACTER_KLEMENS_SIEGERT
+		portraits={
+			civilian={
+				large="GFX_portrait_irl_klemens_siegert_large"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			traits = {  }
+			desc = IRL_KLEMENS_SIEGERT_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

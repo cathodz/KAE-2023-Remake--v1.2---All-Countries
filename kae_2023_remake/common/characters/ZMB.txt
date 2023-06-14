@@ -1,0 +1,16 @@
+characters={
+	ZMB_jata_nzeogwu={
+		name=ZMB_CHARACTER_JATA_NZEOGWU
+		portraits={
+			civilian={
+				large="GFX_portrait_zmb_jata_nzeogwu_large"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			traits = {  }
+			desc = ZMB_JATA_NZEOGWU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

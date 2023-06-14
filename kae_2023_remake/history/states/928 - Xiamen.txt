@@ -1,0 +1,33 @@
+state=
+{
+	id=928
+	name="STATE_928"
+	manpower = 873780
+	state_category = large_town
+	
+	
+	history=
+	{
+		owner = XIA
+		add_core_of = XIA
+		
+		victory_points = {
+			7071 10
+		}	
+		
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 1
+			7071 = {
+				naval_base = 3
+			}	
+		}
+
+	}
+	provinces={
+		7071
+	}
+
+	local_supplies=0.0 
+}

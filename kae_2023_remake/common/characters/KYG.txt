@@ -1,0 +1,16 @@
+characters={
+	KYG_zhantoro_kubanychbek={
+		name=KYG_CHARACTER_ZHANTORO_KUBANYCHBEK
+		portraits={
+			civilian={
+				large="GFX_portrait_kyg_zhantoro_kubanychbek_large"
+			}
+		}
+		country_leader={
+			ideology=anocracy
+			traits = {  }
+			desc = KYG_ZHANTORO_KUBANYCHBEK_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	ABN_mark_luka={
+		name=ABN_CHARACTER_MARK_LUKA
+		portraits={
+			civilian={
+				large="GFX_portrait_abn_mark_luka_large"
+			}
+		}
+		country_leader={
+			ideology=reformist_ultraprogressivism
+			traits = {  }
+			desc = ABN_MARK_LUKA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

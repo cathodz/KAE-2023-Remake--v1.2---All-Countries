@@ -1,0 +1,24 @@
+state = {
+	id = 918
+	name = "STATE_918"
+	manpower = 126340
+	state_category = rural
+
+	history = {
+		owner = KAG
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = KAG
+		add_core_of = TNY
+
+	}
+	
+	provinces = {
+		10932 4171 2308 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

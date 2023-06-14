@@ -1,0 +1,16 @@
+characters={
+	WAS_amadu_kabelo={
+		name=WAS_CHARACTER_AMADU_KABELO
+		portraits={
+			civilian={
+				large="GFX_portrait_was_amadu_kabelo_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = WAS_AMADU_KABELO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

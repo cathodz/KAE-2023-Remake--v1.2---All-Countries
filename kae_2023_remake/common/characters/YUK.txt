@@ -1,0 +1,16 @@
+characters={
+	YUK_adam_mcgullin={
+		name=YUK_CHARACTER_ADAM_MCGULLIN
+		portraits={
+			civilian={
+				large="GFX_portrait_yuk_adam_mcgullin_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = YUK_ADAM_MCGULLIN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

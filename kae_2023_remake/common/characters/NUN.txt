@@ -1,0 +1,16 @@
+characters={
+	NUN_akluitok_unalaq={
+		name=NUN_CHARACTER_AKLUITOK_UNALAQ
+		portraits={
+			civilian={
+				large="GFX_portrait_nun_akluitok_unalaq_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = NUN_AKLUITOK_UNALAQ_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

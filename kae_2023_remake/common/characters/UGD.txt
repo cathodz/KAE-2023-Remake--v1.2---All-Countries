@@ -1,0 +1,16 @@
+characters={
+	UGD_badru_solarin={
+		name=UGD_CHARACTER_BADRU_SOLARIN
+		portraits={
+			civilian={
+				large="GFX_portrait_ugd_badru_solarin_large"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			traits = {  }
+			desc = UGD_BADRU_SOLARIN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

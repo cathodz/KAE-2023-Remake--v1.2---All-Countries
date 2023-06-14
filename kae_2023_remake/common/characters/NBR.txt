@@ -1,0 +1,16 @@
+characters={
+	NBR_josiah_gulo={
+		name=NBR_CHARACTER_JOSIAH_GULO
+		portraits={
+			civilian={
+				large="GFX_portrait_nbr_josiah_gulo_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = NBR_JOSIAH_GULO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

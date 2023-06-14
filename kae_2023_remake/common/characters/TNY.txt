@@ -1,0 +1,16 @@
+characters={
+	TNY_jaleel_balogun={
+		name=TNY_CHARACTER_JALEEL_BALOGUN
+		portraits={
+			civilian={
+				large="GFX_portrait_tny_jaleel_balogun_large"
+			}
+		}
+		country_leader={
+			ideology=radical_accelerationism
+			traits = {  }
+			desc = TNY_JALEEL_BALOGUN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

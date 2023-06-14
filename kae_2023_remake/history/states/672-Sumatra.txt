@@ -1,0 +1,39 @@
+state={
+	id=672
+	name="STATE_672"
+	manpower = 2254900
+	
+	state_category = town
+	
+	resources={
+		rubber=14 # was: 150
+		oil=8 # was: 12
+		aluminium=32 # was: 28
+	}
+
+
+	history=
+	{
+		owner = INC
+		add_core_of = SUU
+		add_core_of = SUM
+		victory_points = {
+			4652 1 
+		}
+		
+		victory_points = {
+			12268 1 
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	provinces={
+		1246 1274 1313 1332 1342 1345 1373 1401 4211 4276 4320 4361 4364 4381 7308 7384 7396 7440 10150 10225 10294 10322 12138 12165 12184 12209 12212 12268 12296 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,16 @@
+characters={
+	XOV_attikou_fengari={
+		name=XOV_CHARACTER_ATTIKOU_FENGARI
+		portraits={
+			civilian={
+				large="GFX_portrait_xov_attikou_fengari_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = XOV_ATTIKOU_FENGARI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

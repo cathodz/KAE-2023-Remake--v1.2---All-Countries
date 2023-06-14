@@ -1,0 +1,16 @@
+characters={
+	TKS_umara_moradi={
+		name=TKS_CHARACTER_UMARA_MORADI
+		portraits={
+			civilian={
+				large="GFX_portrait_tks_umara_moradi_large"
+			}
+		}
+		country_leader={
+			ideology=islamic_progressivism
+			traits = {  }
+			desc = TKS_UMARA_MORADI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

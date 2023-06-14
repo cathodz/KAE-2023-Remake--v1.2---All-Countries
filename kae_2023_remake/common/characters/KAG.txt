@@ -1,0 +1,16 @@
+characters={
+	KAG_enzi_falana={
+		name=KAG_CHARACTER_ENZI_FALANA
+		portraits={
+			civilian={
+				large="GFX_portrait_kag_enzi_falana_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = KAG_ENZI_FALANA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

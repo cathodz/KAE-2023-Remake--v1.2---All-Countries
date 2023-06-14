@@ -1,0 +1,16 @@
+characters={
+	MAT_zain_akenzua={
+		name=MAT_CHARACTER_ZAIN_AKENZUA
+		portraits={
+			civilian={
+				large="GFX_portrait_mat_zain_akenzua_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = MAT_ZAIN_AKENZUA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

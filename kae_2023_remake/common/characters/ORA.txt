@@ -1,0 +1,16 @@
+characters={
+	ORA_charles-phillippe_d'orleans={
+		name=ORA_CHARACTER_CHARLES-PHILLIPPE_D'ORLEANS
+		portraits={
+			civilian={
+				large="GFX_portrait_ora_charles-phillippe_d'orleans_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = ORA_CHARLES-PHILLIPPE_D'ORLEANS_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

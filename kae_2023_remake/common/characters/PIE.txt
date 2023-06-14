@@ -1,0 +1,16 @@
+characters={
+	PIE_aldolo_mattenzi={
+		name=PIE_CHARACTER_ALDOLO_MATTENZI
+		portraits={
+			civilian={
+				large="GFX_portrait_pie_aldolo_mattenzi_large"
+			}
+		}
+		country_leader={
+			ideology=milanese_accelerationism
+			traits = {  }
+			desc = PIE_ALDOLO_MATTENZI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

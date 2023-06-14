@@ -1,0 +1,16 @@
+characters={
+	SCT_lyall_knox={
+		name=SCT_CHARACTER_LYALL_KNOX
+		portraits={
+			civilian={
+				large="GFX_portrait_sct_lyall_knox_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = SCT_LYALL_KNOX_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,42 @@
+state={
+	id=921
+	name="STATE_921"
+	manpower = 8254900
+	
+	state_category = town
+	
+	resources={
+		rubber=124 # was: 150
+		oil=33 # was: 12
+		aluminium=9 # was: 28
+	}
+
+
+	history=
+	{
+		owner = SUU
+		add_core_of = SUU
+		add_core_of = SUM
+		victory_points = {
+			4652 1 
+		}
+
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			4652 = {
+				naval_base = 3
+			}
+			1648 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		10382 12343 10209 12168 1277 12181 7327 7463 12302 1428 7673 4652 8360 12126 12488 1648 1533 7368 12415 10194 
+	}
+
+	local_supplies=0.0 
+}

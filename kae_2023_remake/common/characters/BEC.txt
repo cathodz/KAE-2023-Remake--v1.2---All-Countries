@@ -1,0 +1,16 @@
+characters={
+	BEC_safiri_jakande={
+		name=BEC_CHARACTER_SAFIRI_JAKANDE
+		portraits={
+			civilian={
+				large="GFX_portrait_bec_safiri_jakande_large"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			traits = {  }
+			desc = BEC_SAFIRI_JAKANDE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

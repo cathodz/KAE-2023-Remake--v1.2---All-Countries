@@ -1,0 +1,16 @@
+characters={
+	PLD_mitchell_guerra={
+		name=PLD_CHARACTER_MITCHELL_GUERRA
+		portraits={
+			civilian={
+				large="GFX_portrait_pld_mitchell_guerra_large"
+			}
+		}
+		country_leader={
+			ideology=ultranational_progressivism
+			traits = {  }
+			desc = PLD_MITCHELL_GUERRA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

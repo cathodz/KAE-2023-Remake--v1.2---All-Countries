@@ -1,0 +1,16 @@
+characters={
+	SPN_borut_soloviev={
+		name=SPN_CHARACTER_BORUT_SOLOVIEV
+		portraits={
+			civilian={
+				large="GFX_portrait_spn_borut_soloviev_large"
+			}
+		}
+		country_leader={
+			ideology=provisional_government
+			traits = {  }
+			desc = SPN_BORUT_SOLOVIEV_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	KAN_muhsin_bulu={
+		name=KAN_CHARACTER_MUHSIN_BULU
+		portraits={
+			civilian={
+				large="GFX_portrait_kan_muhsin_bulu_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = KAN_MUHSIN_BULU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

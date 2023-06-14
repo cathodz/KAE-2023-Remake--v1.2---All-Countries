@@ -1,0 +1,16 @@
+characters={
+	CAL_berengar_vecoli={
+		name=CAL_CHARACTER_BERENGAR_VECOLI
+		portraits={
+			civilian={
+				large="GFX_portrait_cal_berengar_vecoli_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = CAL_BERENGAR_VECOLI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

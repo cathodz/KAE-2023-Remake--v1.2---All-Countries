@@ -1,0 +1,16 @@
+characters={
+	ACE_dian_ary_kusumo={
+		name=ACE_CHARACTER_DIAN_ARY_KUSUMO
+		portraits={
+			civilian={
+				large="GFX_portrait_ace_dian_ary_kusumo_large"
+			}
+		}
+		country_leader={
+			ideology=partisan_movement
+			traits = {  }
+			desc = ACE_DIAN_ARY_KUSUMO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

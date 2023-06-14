@@ -1,0 +1,16 @@
+characters={
+	AZE_aram_pashia={
+		name=AZE_CHARACTER_ARAM_PASHIA
+		portraits={
+			civilian={
+				large="GFX_portrait_aze_aram_pashia_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = AZE_aram_pashia_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

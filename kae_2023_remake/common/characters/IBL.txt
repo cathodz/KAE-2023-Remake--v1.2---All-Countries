@@ -1,0 +1,16 @@
+characters={
+	IBL_kadin_azimi={
+		name=IBL_CHARACTER_KADIN_AZIMI
+		portraits={
+			civilian={
+				large="GFX_portrait_ibl_kadin_azimi_large"
+			}
+		}
+		country_leader={
+			ideology=islamic_progressivism
+			traits = {  }
+			desc = IBL_KADIN_AZIMI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

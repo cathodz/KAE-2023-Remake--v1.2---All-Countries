@@ -1,0 +1,16 @@
+characters={
+	JPN_thouser_kazuma={
+		name=JPN_CHARACTER_THOUSER_KAZUMA
+		portraits={
+			civilian={
+				large="GFX_portrait_jpn_thouser_kazuma_large"
+			}
+		}
+		country_leader={
+			ideology=neo_progressivism
+			traits = {  }
+			desc = JPN_THOUSER_KAZUMA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

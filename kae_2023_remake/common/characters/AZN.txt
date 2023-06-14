@@ -1,0 +1,16 @@
+characters={
+	AZN_tendaji_ojukwu={
+		name=AZN_CHARACTER_TENDAJI_OJUKWU
+		portraits={
+			civilian={
+				large="GFX_portrait_azn_tendaji_ojukwu_large"
+			}
+		}
+		country_leader={
+			ideology=ultranational_progressivism
+			traits = {  }
+			desc = AZN_TENDAJI_OJUKWU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

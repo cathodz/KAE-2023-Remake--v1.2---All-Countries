@@ -1,0 +1,16 @@
+characters={
+	TSK_arno_reid={
+		name=TSK_CHARACTER_ARNO_REID
+		portraits={
+			civilian={
+				large="GFX_portrait_tsk_arno_reid_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = TSK_ARNO_REID_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

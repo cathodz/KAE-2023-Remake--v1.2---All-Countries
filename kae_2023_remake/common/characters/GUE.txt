@@ -1,0 +1,16 @@
+characters={
+	GUE_sacramento_mendoza={
+		name=GUE_CHARACTER_SACRAMENTO_MENDOZA
+		portraits={
+			civilian={
+				large="GFX_portrait_gue_sacramento_mendoza_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = GUE_SACRAMENTO_MENDOZA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

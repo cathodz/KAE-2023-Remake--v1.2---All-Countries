@@ -1,0 +1,25 @@
+state = {
+	id = 909
+	name = "STATE_909"
+
+	history = {
+	
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3775 10
+		}
+		owner = NAR
+		add_core_of = NAR
+
+	}
+
+	provinces = {
+		749 11695 722 9667 13156 9711 11725 3763 3775 6607 779 9743 6610 774 
+	}
+	manpower = 2812940
+	buildings_max_level_factor = 1.000
+	state_category = large_city
+	local_supplies = 0.000
+}

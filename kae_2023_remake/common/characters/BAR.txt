@@ -1,0 +1,16 @@
+characters={
+	BAR_chui_bankole={
+		name=BAR_CHARACTER_CHUI_BANKOLE
+		portraits={
+			civilian={
+				large="GFX_portrait_bar_chui_bankole_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = BAR_CHUI_BANKOLE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

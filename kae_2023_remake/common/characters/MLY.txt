@@ -1,0 +1,16 @@
+characters={
+	MLY_nabeel_bin_adham={
+		name=MLY_CHARACTER_NABEEL_BIN_ADHAM
+		portraits={
+			civilian={
+				large="GFX_portrait_mly_nabeel_bin_adham_large"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {  }
+			desc = MLY_NABEEL_BIN_ADHAM_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

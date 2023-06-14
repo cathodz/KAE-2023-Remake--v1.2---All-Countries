@@ -1,0 +1,32 @@
+
+state={
+	id=911
+	name="STATE_911"
+	manpower = 263250
+	
+	state_category = rural
+
+	history={
+		owner = YUC
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			4965 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = YUC
+		add_core_of = QTR
+
+		victory_points = {
+			4965 10
+		}
+	}
+
+	provinces={
+		4965 
+	}
+	
+
+	local_supplies=0.0 
+}

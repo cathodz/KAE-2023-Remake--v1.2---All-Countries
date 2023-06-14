@@ -1,0 +1,36 @@
+state={
+	id=923
+	name="STATE_923"
+	manpower = 146240
+	
+	state_category = town
+	
+	resources={
+		rubber=74 # was: 150
+		aluminium=6 # was: 28
+	}
+
+
+	history=
+	{
+		owner = ACE
+		add_core_of = ACE
+		add_core_of = SUM
+		add_core_of = SUU
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			
+			7658 = {
+				naval_base = 1
+			}		
+		}
+	}
+	provinces={
+		7658 10509 
+	}
+
+	local_supplies=0.0 
+}

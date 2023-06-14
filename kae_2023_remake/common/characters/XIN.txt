@@ -1,0 +1,16 @@
+characters={
+	XIN_burhan_mijit={
+		name=XIN_CHARACTER_BURHAN_MIJIT
+		portraits={
+			civilian={
+				large="GFX_portrait_xin_burhan_mijit_large"
+			}
+		}
+		country_leader={
+			ideology=neo_socialism
+			traits = {  }
+			desc = XIN_BURHAN_MIJIT_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

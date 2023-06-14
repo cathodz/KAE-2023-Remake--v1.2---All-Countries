@@ -1,0 +1,16 @@
+characters={
+	XIA_shreyu={
+		name=XIA_CHARACTER_SHREYU
+		portraits={
+			civilian={
+				large="GFX_portrait_xia_shreyu_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = XIA_SHREYU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

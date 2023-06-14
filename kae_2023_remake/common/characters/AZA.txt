@@ -1,0 +1,16 @@
+characters={
+	AZA_izil_warani={
+		name=AZA_CHARACTER_IZIL_WARANI
+		portraits={
+			civilian={
+				large="GFX_portrait_aza_izil_warani_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = AZA_IZIL_WARANI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	OVA_siwatu_buhari={
+		name=OVA_CHARACTER_SIWATU_BUHARI
+		portraits={
+			civilian={
+				large="GFX_portrait_ova_siwatu_buhari_large"
+			}
+		}
+		country_leader={
+			ideology=moderatism
+			traits = {  }
+			desc = OVA_SIWATU_BUHARI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

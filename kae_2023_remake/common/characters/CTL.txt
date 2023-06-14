@@ -1,0 +1,16 @@
+characters={
+	CTL_alan_palacio={
+		name=CTL_CHARACTER_ALAN_PALACIO
+		portraits={
+			civilian={
+				large="GFX_portrait_ctl_alan_palacio_large"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			traits = {  }
+			desc = CTL_ALAN_PALACIO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

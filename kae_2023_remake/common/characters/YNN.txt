@@ -1,0 +1,16 @@
+characters={
+	YNN_yin_xinyue={
+		name=YNN_CHARACTER_YIN_XINYUE
+		portraits={
+			civilian={
+				large="GFX_portrait_ynn_yin_xinyue_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = YNN_YIN_XINYUE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

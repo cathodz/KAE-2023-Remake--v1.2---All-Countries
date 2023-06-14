@@ -1,0 +1,16 @@
+characters={
+	CMN_kibwe_kalu={
+		name=CMN_CHARACTER_KIBWE_KALU
+		portraits={
+			civilian={
+				large="GFX_portrait_cmn_kibwe_kalu_large"
+			}
+		}
+		country_leader={
+			ideology=anocracy
+			traits = {  }
+			desc = CMN_KIBWE_KALU_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

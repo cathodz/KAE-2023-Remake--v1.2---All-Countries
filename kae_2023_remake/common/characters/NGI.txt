@@ -1,0 +1,16 @@
+characters={
+	NGI_chane_khamani={
+		name=NGI_CHARACTER_CHANE_KHAMANI
+		portraits={
+			civilian={
+				large="GFX_portrait_ngi_chane_khamani_large"
+			}
+		}
+		country_leader={
+			ideology=semi_constitutional_monarchy
+			traits = {  }
+			desc = NGI_chane_khamani_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

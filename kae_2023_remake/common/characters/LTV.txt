@@ -1,0 +1,16 @@
+characters={
+	LTV_ikars_alksnis={
+		name=LTV_CHARACTER_IKARS_ALKSNIS
+		portraits={
+			civilian={
+				large="GFX_portrait_ltv_ikars_alksnis_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = LTV_IKARS_ALKSNIS_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

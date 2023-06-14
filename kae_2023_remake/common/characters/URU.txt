@@ -1,0 +1,16 @@
+characters={
+	URU_aaron_tenorio={
+		name=URU_CHARACTER_AARON_TENORIO
+		portraits={
+			civilian={
+				large="GFX_portrait_uru_aaron_tenorio_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = URU_AARON_TENORIO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

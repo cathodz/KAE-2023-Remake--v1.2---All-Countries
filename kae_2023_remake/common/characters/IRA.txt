@@ -1,0 +1,16 @@
+characters={
+	IRA_mansur_abbasi={
+		name=IRA_CHARACTER_MANSUR_ABBASI
+		portraits={
+			civilian={
+				large="GFX_portrait_ira_mansur_abbasi_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = IRA_MANSUR_ABBASI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

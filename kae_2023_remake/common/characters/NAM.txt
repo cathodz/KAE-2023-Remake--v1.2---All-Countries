@@ -1,0 +1,16 @@
+characters={
+	NAM_khiry_jomo-gbomo={
+		name=NAM_CHARACTER_KHIRY_JOMO-GBOMO
+		portraits={
+			civilian={
+				large="GFX_portrait_nam_khiry_jomo-gbomo_large"
+			}
+		}
+		country_leader={
+			ideology=controlled_democracy
+			traits = {  }
+			desc = NAM_KHIRY_JOMO-GBOMO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

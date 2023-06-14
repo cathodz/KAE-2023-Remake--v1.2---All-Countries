@@ -1,0 +1,16 @@
+characters={
+	LBW_zakia_nnamani={
+		name=LBW_CHARACTER_ZAKIA_NNAMANI
+		portraits={
+			civilian={
+				large="GFX_portrait_lbw_zakia_nnamani_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = LBW_ZAKIA_NNAMANI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

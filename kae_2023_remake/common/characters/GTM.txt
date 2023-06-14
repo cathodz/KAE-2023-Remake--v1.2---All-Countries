@@ -1,0 +1,16 @@
+characters={
+	GTM_antonio_fernan={
+		name=GTM_CHARACTER_ANTONIO_FERNAN
+		portraits={
+			civilian={
+				large="GFX_portrait_gtm_antonio_fernan_large"
+			}
+		}
+		country_leader={
+			ideology=technocratic_fascism
+			traits = {  }
+			desc = GTM_ANTONIO_FERNAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

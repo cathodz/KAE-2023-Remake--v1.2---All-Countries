@@ -1,0 +1,16 @@
+characters={
+	NWY_pal_torkelson={
+		name=NWY_CHARACTER_PAL_TORKELSON
+		portraits={
+			civilian={
+				large="GFX_portrait_nwy_pal_torkelson_large"
+			}
+		}
+		country_leader={
+			ideology=council_technocracy
+			traits = {  }
+			desc = NWY_PAL_TORKELSON_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	AJU_adham_guler={
+		name=AJU_CHARACTER_ADHAM_GULER
+		portraits={
+			civilian={
+				large="GFX_portrait_aju_adham_guler_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = AJU_ADHAM_GULER_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

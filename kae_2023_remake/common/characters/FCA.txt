@@ -1,0 +1,16 @@
+characters={
+	FCA_allied_arctic_administration={
+		name=FCA_CHARACTER_ALLIED_ARCTIC_ADMINISTRATION
+		portraits={
+			civilian={
+				large="GFX_portrait_fca_allied_arctic_administration_large"
+			}
+		}
+		country_leader={
+			ideology=council_technocracy
+			traits = {  }
+			desc = FCA_ALLIED_ARCTIC_ADMINISTRATION_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

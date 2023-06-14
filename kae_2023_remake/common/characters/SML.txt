@@ -1,0 +1,16 @@
+characters={
+	SML_commander_xabanisile={
+		name=SML_CHARACTER_COMMANDER_XABANISILE
+		portraits={
+			civilian={
+				large="GFX_portrait_sml_commander_xabanisile_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = SML_COMMANDER_XABANISILE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

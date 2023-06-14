@@ -1,0 +1,16 @@
+characters={
+	HNG_united_nations_committee={
+		name=HNG_CHARACTER_UNITED_NATIONS_COMMITTEE
+		portraits={
+			civilian={
+				large="GFX_portrait_hng_united_nations_committee_large"
+			}
+		}
+		country_leader={
+			ideology=provisional_government
+			traits = {  }
+			desc = HNG_UNITED_NATIONS_COMMITTEE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

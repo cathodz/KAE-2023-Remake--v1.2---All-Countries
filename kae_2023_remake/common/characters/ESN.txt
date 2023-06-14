@@ -1,0 +1,16 @@
+characters={
+	ESN_zlatomir_bukovski={
+		name=ESN_CHARACTER_ZLATOMIR_BUKOVSKI
+		portraits={
+			civilian={
+				large="GFX_portrait_esn_zlatomir_bukovski_large"
+			}
+		}
+		country_leader={
+			ideology=centrism
+			traits = {  }
+			desc = ESN_ZLATOMIR_BUKOVSKI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

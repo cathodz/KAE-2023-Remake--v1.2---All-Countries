@@ -1,0 +1,16 @@
+characters={
+	MAH_pravin_singh={
+		name=MAH_CHARACTER_PRAVIN_SINGH
+		portraits={
+			civilian={
+				large="GFX_portrait_mah_pravin_singh_large"
+			}
+		}
+		country_leader={
+			ideology=agrarianism
+			traits = {  }
+			desc = MAH_PRAVIN_SINGH_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

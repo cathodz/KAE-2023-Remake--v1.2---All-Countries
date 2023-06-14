@@ -1,0 +1,16 @@
+characters={
+	NAG_akshay_patla={
+		name=NAG_CHARACTER_AKSHAY_PATLA
+		portraits={
+			civilian={
+				large="GFX_portrait_nag_akshay_patla_large"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits = {  }
+			desc = NAG_AKSHAY_PATLA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

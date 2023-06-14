@@ -1,0 +1,16 @@
+characters={
+	JOL_alsane_diawara={
+		name=JOL_CHARACTER_ALSANE_DIAWARA
+		portraits={
+			civilian={
+				large="GFX_portrait_jol_alsane_diawara_large"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			traits = {  }
+			desc = JOL_ALSANE_DIAWARA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

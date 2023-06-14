@@ -1,0 +1,16 @@
+characters={
+	MER_nathan_march={
+		name=MER_CHARACTER_NATHAN_MARCH
+		portraits={
+			civilian={
+				large="GFX_portrait_mer_nathan_march_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = MER_NATHAN_MARCH_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	BRN_hengki_ary_iskandar={
+		name=BRN_CHARACTER_HENGKI_ARY_ISKANDAR
+		portraits={
+			civilian={
+				large="GFX_portrait_brn_hengki_ary_iskandar_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = BRN_HENGKI_ARY_ISKANDAR_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

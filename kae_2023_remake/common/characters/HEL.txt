@@ -1,0 +1,16 @@
+characters={
+	HEL_caesar_valentinianus={
+		name=HEL_CHARACTER_CAESAR_VALENTINIANUS
+		portraits={
+			civilian={
+				large="GFX_portrait_hel_caesar_valentinianus_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = HEL_CAESAR_VALENTINIANUS_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

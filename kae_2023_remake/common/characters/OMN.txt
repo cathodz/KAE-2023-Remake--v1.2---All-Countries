@@ -1,0 +1,16 @@
+characters={
+	OMN_commander_xabanisile={
+		name=OMN_CHARACTER_COMMANDER_XABANISILE
+		portraits={
+			civilian={
+				large="GFX_portrait_omn_commander_xabanisile_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = OMN_commander_xabaisile_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

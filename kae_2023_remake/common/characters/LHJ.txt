@@ -1,0 +1,16 @@
+characters={
+	LHJ_amit_rahman={
+		name=LHJ_CHARACTER_AMIT_RAHMAN
+		portraits={
+			civilian={
+				large="GFX_portrait_lhj_amit_rahman_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = LHJ_AMIT_RAHMAN_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

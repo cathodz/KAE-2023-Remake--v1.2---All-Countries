@@ -1,0 +1,29 @@
+
+state={
+	id=914
+	name="STATE_914"
+	manpower = 74910
+	
+	state_category = rural
+
+	history={
+		owner = MAT
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MAT
+		add_core_of = RHD
+
+		victory_points = {
+			4851 5
+		}
+	}
+
+	provinces={
+		1874 4851 2151 
+	}
+	
+
+	local_supplies=0.0 
+}

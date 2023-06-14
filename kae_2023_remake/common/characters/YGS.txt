@@ -1,0 +1,16 @@
+characters={
+	YGS_boris_seltiz={
+		name=YGS_CHARACTER_BORIS_SELTIZ
+		portraits={
+			civilian={
+				large="GFX_portrait_ygs_boris_seltiz_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = YGS_BORIS_SELTIZ_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

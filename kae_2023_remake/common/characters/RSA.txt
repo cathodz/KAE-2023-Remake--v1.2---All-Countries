@@ -1,0 +1,16 @@
+characters={
+	RSA_jacques_van_rensburg={
+		name=RSA_CHARACTER_JACQUES_VAN_RENSBURG
+		portraits={
+			civilian={
+				large="GFX_portrait_rsa_jacques_van_rensburg_large"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			traits = {  }
+			desc = RSA_JACQUES_VAN_RENSBURG_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

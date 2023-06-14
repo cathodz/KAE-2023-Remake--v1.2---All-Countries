@@ -1,0 +1,16 @@
+characters={
+	PSP_emilio_de_la_torre={
+		name=PSP_CHARACTER_EMILIO_DE_LA_TORRE
+		portraits={
+			civilian={
+				large="GFX_portrait_psp_emilio_de_la_torre_large"
+			}
+		}
+		country_leader={
+			ideology=radical_accelerationism
+			traits = {  }
+			desc = PSP_EMILIO_DE_LA_TORRE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

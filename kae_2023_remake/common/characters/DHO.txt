@@ -1,0 +1,16 @@
+characters={
+	DHO_asante_igbinedion={
+		name=DHO_CHARACTER_ASANTE_IGBINEDION
+		portraits={
+			civilian={
+				large="GFX_portrait_dho_asante_igbinedion_large"
+			}
+		}
+		country_leader={
+			ideology=stalinism
+			traits = {  }
+			desc = DHO_ASANTE_IGBINEDION_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	INC_nguyen_quang_khac={
+		name=INC_CHARACTER_NGUYEN_QUANG_KHAC
+		portraits={
+			civilian={
+				large="GFX_portrait_inc_nguyen_quang_khac_large"
+			}
+		}
+		country_leader={
+			ideology=neo_progressivism
+			traits = {  }
+			desc = INC_NGUYEN_QUANG_KHAC_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	SWD_stefan_lundberg={
+		name=SWD_CHARACTER_STEFAN_LUNDBERG
+		portraits={
+			civilian={
+				large="GFX_portrait_swd_stefan_lundberg_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = SWD_STEFAN_LUNDBERG_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

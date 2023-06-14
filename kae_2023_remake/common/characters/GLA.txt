@@ -1,0 +1,16 @@
+characters={
+	GLA_mateo_lacasa={
+		name=GLA_CHARACTER_MATEO_LACASA
+		portraits={
+			civilian={
+				large="GFX_portrait_gla_mateo_lacasa_large"
+			}
+		}
+		country_leader={
+			ideology=provisional_government
+			traits = {  }
+			desc = GLA_MATEO_LACASA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

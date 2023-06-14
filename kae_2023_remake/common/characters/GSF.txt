@@ -1,0 +1,16 @@
+characters={
+	GSF_alessio_priuli={
+		name=GSF_CHARACTER_ALESSIO_PRIULI
+		portraits={
+			civilian={
+				large="GFX_portrait_gsf_alessio_priuli_large"
+			}
+		}
+		country_leader={
+			ideology=priulism
+			traits = {  }
+			desc = GSF_ALESSIO_PRIULI_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

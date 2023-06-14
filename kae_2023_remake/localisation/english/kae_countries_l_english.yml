@@ -1,0 +1,674 @@
+﻿l_english:
+
+ ### MAIN
+
+ ETR_accelerationism:0 "Eternal Realm"
+ ETR_accelerationism_DEF:0 "the Eternal Realm" 
+ ETR_accelerationism_ADJ:0 "Aeternian"
+
+ NAR_democratic:0 "North American Reich"
+ NAR_democratic_DEF:0 "the North American Reich"
+ NAR_democratic_ADJ:0 "North American"
+
+ GAL_galactism:0 "Galactist Russian Empire"
+ GAL_galactism_DEF:0 "the Galactist Russian Empire" 
+ GAL_galactism_ADJ:0 "Russian"
+
+ CAU_neutrality:1 "Caucasia"
+ CAU_neutrality_DEF:1 "the Caucasian Empire"
+ CAU_neutrality_ADJ:0 "Caucasian"
+
+ TNR_fascism:0 "Tanrik"
+ TNR_fascism_DEF:0 "the Republic of Tanrik"
+ TNR_fascism_ADJ:0 "Tanrikan"
+
+ XOV_technocratic:0 "Xovreko"
+ XOV_technocratic_DEF:0 "the Federal Union States of Xokra"
+ XOV_technocratic_ADJ:0 "Xovrekan"
+
+ INC_progressivism:0 "Indochinese Commonwealth"
+ INC_progressivism_DEF:0 "the Indochinese Commonwealth"
+ INC_progressivism_ADJ:0 "Indochinese"
+
+ HEL_neutrality:1 "Hellenic Empire"
+ HEL_neutrality_DEF:1 "the Hellenic Empire"
+ HEL_neutrality_ADJ:0 "Hellenic"
+
+ BYZ_monarchism:1 "Byzantine Australia"
+ BYZ_monarchism_DEF:1 "the Empire of Byzantine Australia"
+ BYZ_monarchism_ADJ:0 "Byzantine"
+
+ GSF_democratic:0 "Francia"
+ GSF_democratic_DEF:0 "the Grand State of Francia"
+ GSF_democratic_ADJ:0 "French"
+
+ GGR_democratic:0 "Germany"
+ GGR_democratic_DEF:0 "the Great German Reich"
+ GGR_democratic_ADJ:0 "German"
+
+ PIE_accelerationism:0 "Piedmont"
+ PIE_accelerationism_DEF:0 "the Radical Accelerationist State of Piedmont"
+ PIE_accelerationism_ADJ:0 "Piedmontese"
+ 
+ RCA_ultraprogressivism:0 "Commonwealth Exiled Administration"
+ RCA_ultraprogressivism_DEF:0 "the Reformed Commonwealth Ascendancy Government in Exile"
+ RCA_ultraprogressivism_ADJ:0 "Commonwealther"
+
+ ### EUROPE
+ 
+ DEL_monarchism:0 "Delvalle"
+ DEL_monarchism_DEF:0 "the Empire of Delvalle"
+ DEL_monarchism_ADJ:0 "Delvallan"
+ 
+ ORA_monarchism:0 "Orange Empire"
+ ORA_monarchism_DEF:0 "the Orange Empire"
+ ORA_monarchism_ADJ:0 "Orangian"
+ 
+ YGS_neutrality:1 "Yugoslavia"
+ YGS_neutrality_DEF:1 "the Federal Republic of Yugoslavia"
+ YGS_neutrality_ADJ:0 "Yugoslav"
+ 
+ BLG_neutrality:1 "Bulgaria"
+ BLG_neutrality_DEF:1 "the Republic of Bulgaria"
+ BLG_neutrality_ADJ:0 "Bulgarian"
+ 
+ RMN_democratic:0 "Romania"
+ RMN_democratic_DEF:0 "the Republic of Romania"
+ RMN_democratic_ADJ:0 "Romanian"
+ 
+ ABN_ultraprogressivism:0 "Albania"
+ ABN_ultraprogressivism_DEF:0 "the Accelerationist State of Albania"
+ ABN_ultraprogressivism_ADJ:0 "Albanian"
+ 
+ HNG_neutrality:0 "UN Mandate of Hungary"
+ HNG_neutrality_DEF:0 "the UN Mandate of Hungary"
+ HNG_neutrality_ADJ:0 "Hungarian"
+
+ ZAP_accelerationism:0 "Zapadoslavia"
+ ZAP_accelerationism_DEF:0 "the Accelerationist State of Zapadoslavia"
+ ZAP_accelerationism_ADJ:0 "Zapadoslav"
+ 
+ PLD_accelerationism:0 "Poland"
+ PLD_accelerationism_DEF:0 "the Accelerationist State of Poland"
+ PLD_accelerationism_ADJ:0 "Polish"
+ 
+ LTH_democratic:0 "Lithuania"
+ LTH_democratic_DEF:0 "the Republic of Lithuania"
+ LTH_democratic_ADJ:0 "Lithuanian"
+
+ LTV_democratic:0 "Latvia"
+ LTV_democratic_DEF:0 "the Republic of Latvia"
+ LTV_democratic_ADJ:0 "Latvian"  
+ 
+ ESN_neutrality:1 "Estonia"
+ ESN_neutrality_DEF:1 "the Republic of Estonia"
+ ESN_neutrality_ADJ:0 "Estonian"
+ 
+ SWD_democratic:0 "Sweden"
+ SWD_democratic_DEF:0 "the Republic of Sweden"
+ SWD_democratic_ADJ:0 "Swedish"
+ 
+ FNL_neutrality:1 "Finland"
+ FNL_neutrality_DEF:1 "the Republic of Finland"
+ FNL_neutrality_ADJ:0 "Finnish"
+ 
+ EGL_monarchism:1 "Kingdom of England"
+ EGL_monarchism_DEF:1 "the Kingdom of England"
+ EGL_monarchism_ADJ:0 "English"
+ 
+ WAL_neutrality:1 "Wales"
+ WAL_neutrality_DEF:1 "the Republic of Wales"
+ WAL_neutrality_ADJ:0 "Welsh" 
+ WAL_autonomy_dominion:0 "Dominion of Wales"
+ WAL_autonomy_dominion_DEF:0 "the Dominion of Wales"
+ 
+ SCT_neutrality:1 "Scotland"
+ SCT_neutrality_DEF:1 "the Republic of Scotland"
+ SCT_neutrality_ADJ:0 "Scottish"
+ SCT_autonomy_dominion:0 "Dominion of Scotland"
+ SCT_autonomy_dominion_DEF:0 "the Dominion of Scotland"
+
+ IRL_democratic:0 "Ireland"
+ IRL_democratic_DEF:0 "the Republic of Ireland"
+ IRL_democratic_ADJ:0 "Irish"
+ 
+ UKN_neutrality:1 "Ukraine"
+ UKN_neutrality_DEF:1 "the Republic of the Ukraine"
+ UKN_neutrality_ADJ:0 "Ukrainian"
+ UKN_autonomy_personal_union:0 "$OVERLORDADJ$ Ukraine"
+ UKN_autonomy_personal_union_DEF:0 "the $OVERLORDADJ$ Ukraine"
+ 
+ SPN_neutrality:1 "Spain"
+ SPN_neutrality_DEF:1 "the Republic of Spain"
+ SPN_neutrality_ADJ:0 "Spanish"
+ SPN_CAU_autonomy_supervised_state:0 "$OVERLORDADJ$ Facilitation Zone"
+ SPN_CAU_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Facilitation Zone"
+
+ ICL_democratic:1 "Iceland"
+ ICL_democratic_DEF:1 "the Republic of Iceland"
+ ICL_democratic_ADJ:0 "Icelandic"
+
+ CTL_socialism:0 "Catalonia"
+ CTL_socialism_DEF:0 "the Republic of Catalonia"
+ CTL_socialism_ADJ:0 "Catalonian"
+ CTL_GSF_autonomy_supervised_state:0 "$OVERLORDADJ$ Syndicatintendance of Catalonia"
+ CTL_GSF_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Syndicatintendance of Catalonia" 
+ 
+ GLA_neutrality:1 "Galicia"
+ GLA_neutrality_DEF:1 "the Republic of Galicia"
+ GLA_neutrality_ADJ:0 "Galician"
+ GLA_GSF_autonomy_supervised_state:0 "$OVERLORDADJ$ Syndicatintendance of Galicia"
+ GLA_GSF_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Syndicatintendance of Galicia"  
+
+ FSP_neutrality:1 "Porto-Hispania"
+ FSP_neutrality_DEF:1 "the Republic of Porto-Hispania"
+ FSP_neutrality_ADJ:0 "Porto-Hispanian"
+ FSP_GSF_autonomy_supervised_state:0 "$OVERLORDADJ$ Syndicatintendance of Spain"
+ FSP_GSF_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Syndicatintendance of Spain"
+ 
+ DNM_socialism:0 "Denmark"
+ DNM_socialism_DEF:0 "the Republic of Denmark"
+ DNM_socialism_ADJ:0 "Danish"
+ DNM_GSF_democratic_autonomy_puppet:0 "$OVERLORDADJ$ Syndicatintendance of Denmark"
+ DNM_GSF_democratic_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Syndicatintendance of Denmark" 
+
+ GBR_democratic:0 "Gibraltar Sovereignty"
+ GBR_democratic_DEF:0 "the Gibraltar Sovereignty"
+ GBR_democratic_ADJ:0 "Gibraltan"
+ GBR_GSF_democratic_autonomy_puppet:0 "$OVERLORDADJ$ Syndicatintendance of Gibraltar"
+ GBR_GSF_democratic_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Syndicatintendance of Gibraltar"
+
+ PSP_accelerationism:0 "Andalusia"
+ PSP_accelerationism_DEF:0 "the Republic Andalusia"
+ PSP_fascism_ADJ:0 "Andalusian"
+ PSP_PIE_autonomy_supervised_state:0 "$OVERLORDADJ$ Facilitation Zone"
+ PSP_PIE_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Facilitation Zone"
+
+ NWY_technocratic:0 "Norway"
+ NWY_technocratic_DEF:0 "the Technate of Norway"
+ NWY_technocratic_ADJ:0 "Norwegian" 
+ 
+ ### AMERICAS
+ 
+ YUK_democratic:0 "Yukon"
+ YUK_democratic_DEF:0 "the Republic of Yukon"
+ YUK_democratic_ADJ:0 "Yukon"
+
+ NUN_neutrality:1 "Nunavut"
+ NUN_neutrality_DEF:1 "the Republic of Nunavut"
+ NUN_neutrality_ADJ:0 "Nunavut"
+ 
+ CAL_monarchism:1 "Kingdom of Calabria"
+ CAL_monarchism_DEF:1 "the Kingdom of Calabria"
+ CAL_monarchism_ADJ:0 "Calabrian"    
+ 
+ MER_neutrality:1 "Caribbean Commonwealth"
+ MER_neutrality_DEF:1 "the Caribbean Commonwealth"
+ MER_neutrality_ADJ:0 "Caribbean"
+
+ GTM_fascism:1 "Guatemala"
+ GTM_fascism_DEF:1 "the State of Guatemala"
+ GTM_fascism_ADJ:0 "Guatemalan"
+ GTM_CAU_autonomy_puppet:0 "$OVERLORDADJ$ Guatemala"
+ GTM_CAU_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Republic of Guatemala" 
+
+ PNM_neutrality:1 "Panama"
+ PNM_neutrality_DEF:1 "the Republic of Panama"
+ PNM_neutrality_ADJ:0 "Panamanian"
+ PNM_CAU_autonomy_puppet:0 "$OVERLORDADJ$ Panama" 
+ PNM_CAU_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Republic of Panama"
+
+ YUC_neutrality:1 "Yucatan"
+ YUC_neutrality_DEF:1 "the Republic of Yucatan"
+ YUC_neutrality_ADJ:0 "Yucatan"
+
+ HSP_democratic:0 "Hispaniola"
+ HSP_democratic_DEF:0 "the Republic of Hispaniola"
+ HSP_democratic_ADJ:0 "Hispaniolan"         
+
+ CST_neutrality:1 "Costa Rica"
+ CST_neutrality_DEF:1 "the Republic of Costa Rica"
+ CST_neutrality_ADJ:0 "Costa Rican"
+ CST_CAU_autonomy_puppet:0 "$OVERLORDADJ$ Costa Rica"
+ CST_CAU_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Republic Costa Rica"
+ 
+ FCA_technocratic:0 "FCA Administration of Greenland"
+ FCA_technocratic_DEF:0 "the FCA Administration of Greenland"
+ FCA_technocratic_ADJ:0 "Arctic"
+ 
+ GEC_socialism:1 "Golden Eagle Commune"
+ GEC_socialism_DEF:1 "the Golden Eagle Commune"
+ GEC_socialism_ADJ:0 "Mexican" 
+ 
+ GUE_warlordism:0 "Guerrero"
+ GUE_warlordism_DEF:0 "the Guerrero Reclamation Army"
+ GUE_warlordism_ADJ:0 "Guerrero"
+   
+ URU_neutrality:1 "Uruguay"
+ URU_neutrality_DEF:1 "the Republic of Uruguay"
+ URU_neutrality_ADJ:0 "Uruguayan"      
+ 
+ AGT_democratic:0 "Argensia"
+ AGT_democratic_DEF:0 "the Republic of Argensia"
+ AGT_democratic_ADJ:0 "Argens"
+ 
+ NCL_technocratic:0 "North Chiletina"
+ NCL_technocratic_DEF:0 "the Technocratic Republic of North Chiletina"
+ NCL_technocratic_ADJ:0 "Chiletinan"
+ 
+ SCL_technocratic:0 "South Chiletina"
+ SCL_technocratic_DEF:0 "the Technocratic Republic of South Chiletina"
+ SCL_technocratic_ADJ:0 "Chiletinan"
+ 
+ QUE_technocratic:0 "Quebec"
+ QUE_technocratic_DEF:0 "the Dual Territory of Xovrekan-Indochinese Quebec"
+ QUE_technocratic_ADJ:0 "Québécois"
+
+ ### AMERICAS - NOT ON MAP
+ 
+ QTR_neutrality:1 "Quintanaroo"
+ QTR_neutrality_DEF:1 "the Confederation of Quintanaroo"
+ QTR_neutrality_ADJ:0 "Quintanarooan      
+
+ SEU_democratic:0 "Southeast Union"
+ SEU_democratic_DEF:0 "the Southeast Union"
+ SEU_democratic_ADJ:0 "American"
+ 
+ ### AFRICA
+
+ MRC_warlordism:1 "National Republic of Morocco"
+ MRC_warlordism_DEF:1 "the National Republic of Morocco"
+ MRC_warlordism_ADJ:0 "Moroccan"  
+ 
+ ALJ_democratic:0 "Republic of Al Jazain"
+ ALJ_democratic_DEF:0 "the Republic of Al Jazain"
+ ALJ_democratic_ADJ:0 "Al Jazaini"
+
+ SAH_communism:1 "Anarchist Communes of the Sahara"
+ SAH_communism_DEF:1 "the Anarchist Communes of the Sahara"
+ SAH_communism_ADJ:0 "Saharan"
+
+ JOL_democratic:0 "Jolof Confederacy"
+ JOL_democratic_DEF:0 "the Jolof Confederacy"
+ JOL_democratic_ADJ:0 "Jolof"
+ 
+ AZA_warlordism:1 "State of Azawad"
+ AZA_warlordism_DEF:1 "the State of Azawad"
+ AZA_warlordism_ADJ:0 "Azawad"
+
+ WAS_neutrality:1 "Wassoulou State"
+ WAS_neutrality_DEF:1 "the Wassoulou State"
+ WAS_neutrality_ADJ:0 "Wassoulou"
+
+ DSM_monarchism:1 "Mali"
+ DSM_monarchism_DEF:1 "the Dynastic State of Mali"
+ DSM_monarchism_ADJ:0 "Malian"
+
+ MOS_progressivism:0 "Republic of Mossiland"
+ MOS_progressivism_DEF:0 "the Republic of Mossiland"
+ MOS_progressivism_ADJ:0 "Mossi"
+
+ HAU_socialism:0 "Hausa Commune"
+ HAU_socialism_DEF:0 "the Hausa Commune"
+ HAU_socialism_ADJ:0 "Hausa"
+
+ ASH_democratic:0 "United Ashanti Republics"
+ ASH_democratic_DEF:0 "the United Ashanti Republics"
+ ASH_democratic_ADJ:0 "Ashanti"
+
+ DHO_communism:0 "People's Republic of Dahomey"
+ DHO_communism_DEF:0 "the People's Republic of Dahomey"
+ DHO_communism_ADJ:0 "Dahomey"
+
+ AIR_neutrality:1 "Dominion of Aïr"
+ AIR_neutrality_DEF:1 "the Dominion of Aïr"
+ AIR_neutrality_ADJ:0 "Nigerien"
+
+ KAN_vanguardism:0 "Kanembu Emirate"
+ KAN_vanguardism_DEF:0 "the Kanembu Emirate"
+ KAN_vanguardism_ADJ:0 "Kanembu"
+
+ BEA_socialism:0 "Union of Bêafrika"
+ BEA_socialism_DEF:0 "the Union of Bêafrika"
+ BEA_socialism_ADJ:0 "Bêafrikan"
+
+ NGI_monarchism:1 "Kingdom of Nigeria"
+ NGI_monarchism_DEF:1 "the Kingdom of Nigeria"
+ NGI_monarchism_ADJ:0 "Nigerian"
+
+ ZAI_accelerationism:0 "Zaire"
+ ZAI_accelerationism_DEF:0 "the State of Zaire"
+ ZAI_accelerationism_ADJ:0 "Zairean"
+
+ AZN_accelerationism:0 "Azandeland"
+ AZN_accelerationism_DEF:0 "the State of Azandeland"
+ AZN_accelerationism_ADJ:0 "Azande"
+
+ MPL_socialism:0 "MPLA"
+ MPL_socialism_DEF:0 "the Movement for the People's Liberation of Angola"
+ MPL_socialism_ADJ:0 "Angolan"
+
+ ZMB_communism:0 "Zambezia"
+ ZMB_communism_DEF:0 "the Zambezi People's Republic"
+ ZMB_communism_ADJ:0 "Zambezi"
+
+ RHD_fascism:0 "Rhodesia"
+ RHD_fascism_DEF:0 "the State of Rhodesia"
+ RHD_fascism_ADJ:0 "Rhodesia"
+
+ BEC_democratic:0 "Bechuanaland"
+ BEC_democratic_DEF:0 "the Republic of Bechuanaland"
+ BEC_democratic_ADJ:0 "Bechuana"
+ 
+ RSA_fascism:0 "South Africa"
+ RSA_fascism_DEF:0 "the Federative Republic of South Africa"
+ RSA_fascism_ADJ:0 "South African"
+
+ TSK_democratic:0 "Transkei Republic"
+ TSK_democratic_DEF:0 "the Transkei Republic"
+ TSK_democratic_ADJ:0 "Transkei"
+
+ MOZ_progressivism:0 "Mozambia"
+ MOZ_progressivism_DEF:0 "the Republic of Mozambia"
+ MOZ_progressivism_ADJ:0 "Mozambian"
+
+ NYA_monarchism:1 "Kingdom of Nyasaland"
+ NYA_monarchism_DEF:1 "the Kingdom of Nyasaland"
+ NYA_monarchism_ADJ:1 "Nyasa" 
+
+ TNY_accelerationism:0 "Tanganyika"
+ TNY_accelerationism_DEF:0 "the State of Tanganyika"
+ TNY_accelerationism_ADJ:0 "Tanganyikan"
+
+ RUA_neutrality:1 "Ruanda-Urundi"
+ RUA_neutrality_DEF:1 "the Republic of Ruanda-Urundi"
+ RUA_neutrality_ADJ:0 "Ruanda-Urundian"
+
+ UGD_communism:0 "Commune of Uganda"
+ UGD_communism_DEF:0 "the Commune of Uganda"
+ UGD_communism_ADJ:0 "Ugandan"
+
+ LUO_warlordism:0 "Luoland"
+ LUO_warlordism_DEF:0 "the State of Luoland"
+ LUO_warlordism_ADJ:0 "Luo"
+
+ KNY_neutrality:1 "Kenya"
+ KNY_neutrality_DEF:1 "the Free Kenyan State"
+ KNY_neutrality_ADJ:0 "Kenyan"
+
+ MLG_monarchism:1 "Malagasy"
+ MLG_monarchism_DEF:1 "the Republic of Malagasy"
+ MLG_monarchism_ADJ:0 "Malagasy"
+
+ SOC_socialism:0 "Socotra"
+ SOC_socialism_DEF:0 "the Sovereign Island of Socotra"
+ SOC_socialism_ADJ:0 "Socotran"
+
+ ### AFRICA - NOT ON MAP
+ 
+ CMN_neutrality:1 "Cameroon"
+ CMN_neutrality_DEF:1 "the Republic of Cameroon"
+ CMN_neutrality_ADJ:0 "Cameroonian"
+
+ GBN_socialism:0 "Gabao People's Front"
+ GBN_socialism_DEF:0 "the Gabao People's Front"
+ GBN_socialism_ADJ:0 "Gabao"
+
+ OVA_neutrality:1 "Ovamboland"
+ OVA_neutrality_DEF:1 "the Republic of Ovamboland"
+ OVA_neutrality_ADJ:0 "Ovambo"
+ 
+ NAM_democratic:0 "Republic of Namibia"
+ NAM_democratic_DEF:0 "the Republic of Namibia"
+ NAM_democratic_ADJ:0 "Namibia"
+
+ AJU_vanguardism:1 "Ajuran Somali State"
+ AJU_vanguardism_DEF:1 "the Ajuran Somali State"
+ AJU_vanguardism_ADJ:0 "Ajuran"
+
+ SML_technocratic:0 "Somalia"
+ SML_technocratic_DEF:0 "the Xovrekan Military Territory in Somalia"
+ SML_technocratic_ADJ:0 "Somalian"
+ 
+ ### ASIA
+
+ ARA_monarchism:1 "United Emirates of Arabia"
+ ARA_monarchism_DEF:1 "the United Emirates of Arabia"
+ ARA_monarchism_ADJ:0 "Arabian"
+
+ KHU_fascism:0 "Khuzestan"
+ KHU_fascism_DEF:0 "the State of Khuzestan"
+ KHU_fascism_ADJ:0 "Khuzestani"
+
+ IRA_vanguardism:1 "Islamic Republic of Iran"
+ IRA_vanguardism_DEF:1 "the Islamic Republic of Iran"
+ IRA_vanguardism_ADJ:0 "Iranian"
+
+ PRS_monarchism:1 "Shahdom of Persia"
+ PRS_monarchism_DEF:1 "the Shahdom of Persia"
+ PRS_monarchism_ADJ:0 "Persian"
+
+ AZE_democratic:0 "Sovereign Azeri Republic"
+ AZE_democratic_DEF:0 "the Sovereign Azeri Republic"
+ AZE_democratic_ADJ:0 "Azeri"
+
+ BAL_warlordism:1 "Balochi People's Liberation Front"
+ BAL_warlordism_DEF:1 "the Balochi People's Liberation Front"
+ BAL_warlordism_ADJ:0 "Balochi"
+
+ CAS_ultraprogressivism:0 "Caspiastan"
+ CAS_ultraprogressivism_DEF:0 "the State of Caspiastan"
+ CAS_ultraprogressivism_ADJ:0 "Caspiastani"
+
+ PAV_galactism:0 "Pavlodar"
+ PAV_galactism_DEF:0 "the Republic of Pavlodar"
+ PAV_galactism_ADJ:0 "Pavlodar"
+
+ KYG_neutrality:1 "Kyrgyzstan"
+ KYG_neutrality_DEF:1 "the Republic of Kyrgyzstan"
+ KYG_neutrality_ADJ:0 "Balochi"
+
+ TJK_communism:0 "Tajikistan"
+ TJK_communism_DEF:0 "the Tajik People's State"
+ TJK_communism_ADJ:0 "Tajik"
+
+ PKS_progressivism:1 "Pakistan"
+ PKS_progressivism_DEF:1 "the Republic of Pakistan"
+ PKS_progressivism_ADJ:0 "Pakistani"
+
+ RJS_warlordism:1 "Rajahsthan"
+ RJS_warlordism_DEF:1 "the Republic of Rajahsthan"
+ RJS_warlordism_ADJ:0 "Rajahsthani"
+
+ IND_fascism:0 "National Republic of India"
+ IND_fascism_DEF:0 "the National Republic of India"
+ IND_fascism_ADJ:0 "Indian"
+
+ SFR_communism:0 "Socialist Federative Republic of India"
+ SFR_communism_DEF:0 "the Socialist Federative Republic of India"
+ SFR_communism_ADJ:0 "Indian"
+
+ SIP_neutrality:0 "Serene Indian Provinces"
+ SIP_neutrality_DEF:0 "the Serene Indian Provinces"
+ SIP_neutrality_ADJ:0 "Indian"
+
+ BTN_neutrality:1 "Bhutan"
+ BTN_neutrality_DEF:1 "the Republic of Bhutan"
+ BTN_neutrality_ADJ:0 "Bhutanese"
+ 
+ VNG_democratic:0 "Vengalia"
+ VNG_democratic_DEF:0 "the Republic of Vengalia"
+ VNG_democratic_ADJ:0 "Vengalian"
+
+ NAG_warlordism:1 "Nagaland"
+ NAG_warlordism_DEF:1 "the Republic of Nagaland"
+ NAG_warlordism_ADJ:0 "Nagalandian"
+
+ BMA_socialism:0 "Burmese People's Union"
+ BMA_socialism_DEF:0 "the Burmese People's Union"
+ BMA_socialism_ADJ:0 "Burmese"
+
+ SIM_monarchism:1 "Republic of Siam"
+ SIM_monarchism_DEF:1 "the Republic of Siam"
+ SIM_monarchism_ADJ:0 "Siamese"    
+
+ CYL_vanguardism:1 "Ceylon"
+ CYL_vanguardism_DEF:1 "the Republic of Ceylon"
+ CYL_vanguardism_ADJ:0 "Ceylonese"
+
+ MLY_fascism:0 "Malay Sultanate"
+ MLY_fascism_DEF:0 "the Sultanate of Malaya"
+ MLY_fascism_ADJ:0 "Malayan"
+
+ SUU_communism:0 "Sumatrese Union"
+ SUU_communism_DEF:0 "the Sumatrese Union"
+ SUU_communism_ADJ:0 "Sumatrese"      
+
+ BRN_neutrality:1 "Democratic Republic of Borneo"
+ BRN_neutrality_DEF:1 "the Democratic Republic of Borneo"
+ BRN_neutrality_ADJ:0 "Ceylonese"
+
+ YNN_warlordism:1 "Yunnan"
+ YNN_warlordism_DEF:1 "the Republic of Yunnan"
+ YNN_warlordism_ADJ:0 "Yunnanese"     
+
+ ZHE_democratic:0 "Zhegiang"
+ ZHE_democratic_DEF:0 "the Republic of Zhegiang"
+ ZHE_democratic_ADJ:0 "Zhegiangese" 
+
+ SCH_neutrality:1 "Sichuan"
+ SCH_neutrality_DEF:1 "the Republic of Sichuan"
+ SCH_neutrality_ADJ:0 "Sichuanese"  
+
+ TBT_neutrality:1 "Tibet"
+ TBT_neutrality_DEF:1 "the Republic of Tibet"
+ TBT_neutrality_ADJ:0 "Tibetan"
+
+ XIN_socialism:0 "Xinjiang"
+ XIN_socialism_DEF:0 "the Xinjiang People's Republic"
+ XIN_socialism_ADJ:0 "Xinjiangese"
+
+ MAA_communism:0 "Ma Socialist Republic"
+ MAA_communism_DEF:0 "the Ma Socialist Republic"
+ MAA_communism_ADJ:0 "Maean"   
+ 
+ BEI_progressivism:0 "Beijing"
+ BEI_progressivism_DEF:0 "the Republic of Beijing"
+ BEI_progressivism_ADJ:0 "Beijingese"
+
+ XMG_neutrality:1 "Xinming"
+ XMG_neutrality_DEF:1 "the Federation of Xinming"
+ XMG_neutrality_ADJ:0 "Xinmingan"
+
+ SHN_vanguardism:0 "Shandong"
+ SHN_vanguardism_DEF:0 "the Republic of Shandong"
+ SHN_vanguardism_ADJ:0 "Shandongese"
+
+ MNG_socialism:0 "Mongolian United Socialist Republic"
+ MNG_socialism_DEF:0 "the Mongolian United Socialist Republic"
+ MNG_socialism_ADJ:0 "Mongolian"
+
+ MNC_galactism:0 "Manchuria"
+ MNC_galactism_DEF:0 "the Republic of Manchuria"
+ MNC_galactism_ADJ:0 "Manchuria"
+ MNC_autonomy_puppet:0 "$OVERLORDADJ$ Manchuria"
+ MNC_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Republic of Manchuria" 
+ 
+ JPN_progressivism:0 "Japan"
+ JPN_progressivism_DEF:0 "the Republic of Japan"
+ JPN_progressivism_ADJ:0 "Japanese"
+
+ MAH_neutrality:1 "Maharastra"
+ MAH_neutrality_DEF:1 "the Free State of Maharastra"
+ MAH_neutrality_ADJ:0 "Maharastran"
+
+ LHJ_democratic:0 "Republic of Lower Hejaz"
+ LHJ_democratic_DEF:0 "the Republic of Lower Hejaz"
+ LHJ_democratic_ADJ:0 "Hejaz"
+ 
+ OMN_technocratic:0 "Oman"
+ OMN_technocratic_DEF:0 "the Xovrekan Military Territory in Oman"
+ OMN_technocratic_ADJ:0 "Omani"
+ 
+ MUS_progressivism:0 "Muscat"
+ MUS_progressivism_DEF:0 "the Republic of Muscat"
+ MUS_progressivism_ADJ:0 "Muscati"
+ 
+ IBL_progressivism:0 "Baluchistan"
+ IBL_progressivism_DEF:0 "the Republic of Baluchistan"
+ IBL_progressivism_ADJ:0 "Baluchi"
+ 
+ AFS_progressivism:0 "Afghanistan"
+ AFS_progressivism_DEF:0 "the Republic of Afghanistan"
+ AFS_progressivism_ADJ:0 "Afghani"
+ 
+ TKS_progressivism:0 "Turkestan"
+ TKS_progressivism_DEF:0 "the Republic of Turkestan"
+ TKS_progressivism_ADJ:0 "Turkestani"
+ 
+ BIN_technocratic:0 "Binzhou"
+ BIN_technocratic_DEF:0 "the Technate of Binzhou"
+ BIN_technocratic_ADJ:0 "Binzhouan"
+ 
+ DAL_technocratic:0 "Dalian"
+ DAL_technocratic_DEF:0 "the Technate of Dalian"
+ DAL_technocratic_ADJ:0 "Dalianese"
+ 
+ XIA_technocratic:0 "Xiamen"
+ XIA_technocratic_DEF:0 "the Technate of Xiamen"
+ XIA_technocratic_ADJ:0 "Xiamenese"
+ 
+ NBR_technocratic:0 "Brunei"
+ NBR_technocratic_DEF:0 "the Technate of Brunei"
+ NBR_technocratic_ADJ:0 "Bruneian"
+ 
+ 
+ ### REQUIRE STATE / PROVINCE EDITING
+ 
+ ATH_neutrality:1 "Mount Athos Holy Mandate"
+ ATH_neutrality_DEF:1 "the Mount Athos Holy Mandate"
+ ATH_neutrality_ADJ:0 "Athos"
+ 
+ KAG_neutrality:1 "Kageria"
+ KAG_neutrality_DEF:1 "the Republic of Kageria"
+ KAG_neutrality_ADJ:0 "Kagerian"
+ 
+ RUK_warlordism:0 "Rukwaland"
+ RUK_warlordism_DEF:0 "the State of Rukwaland"
+ RUK_warlordism_ADJ:0 "Rukwa"
+ 
+ KAS_socialism:0 "Free Kasai Republic"
+ KAS_socialism_DEF:0 "the Free Kasai Republic"
+ KAS_socialism_ADJ:0 "Kasai"
+ 
+ KAT_neutrality:1 "Katanga State"
+ KAT_neutrality_DEF:1 "the Katanga State"
+ KAT_neutrality_ADJ:0 "Katanga"
+
+ BAR_warlordism:0 "Barotseland"
+ BAR_warlordism_DEF:0 "the Republic of Barotseland"
+ BAR_warlordism_ADJ:0 "Barotse"
+ 
+ MAT_vanguardism:0 "Matabeleland"
+ MAT_vanguardism_DEF:0 "the State of Matabeleland"
+ MAT_vanguardism_ADJ:0 "Matabele"
+
+ LBW_neutrality:1 "Lebowaland"
+ LBW_neutrality_DEF:1 "the Republic of Lebowaland"
+ LBW_neutrality_ADJ:0 "Lebowa"
+
+ HER_warlordism:1 "Hereroland"
+ HER_warlordism_DEF:1 "the Republic of Hereroland"
+ HER_warlordism_ADJ:0 "Herero"
+ 
+ ACE_warlordism:0 "Islamic State of Aceh"
+ ACE_warlordism_DEF:0 "the Islamic State of Aceh"
+ ACE_warlordism_ADJ:0 "Aceh"
+
+ SUM_democratic:0 "North Sumatra"
+ SUM_democratic_DEF:0 "the Republic of North Sumatra"
+ SUM_democratic_ADJ:0 "Sumatrese"
+ 
+ LAR_neutrality:1 "Larissa"
+ LAR_neutrality_DEF:1 "the Republic of Larissa"
+ LAR_neutrality_ADJ:0 "Larissan"

@@ -1,0 +1,16 @@
+characters={
+	YUC_yucatan_administrative_council={
+		name=YUC_CHARACTER_YUCATAN_ADMINISTRATIVE_COUNCIL
+		portraits={
+			civilian={
+				large="GFX_portrait_yuc_yucatan_administrative_council_large"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = {  }
+			desc = YUC_YUCATAN_ADMINISTRATIVE_COUNCIL_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

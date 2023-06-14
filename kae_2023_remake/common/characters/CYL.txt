@@ -1,0 +1,16 @@
+characters={
+	CYL_yasindu_rajapaska={
+		name=CYL_CHARACTER_YASINDU_RAJAPASKA
+		portraits={
+			civilian={
+				large="GFX_portrait_cyl_yasindu_rajapaska_large"
+			}
+		}
+		country_leader={
+			ideology=national_vanguardism
+			traits = {  }
+			desc = CYL_YASINDU_RAJAPASKA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

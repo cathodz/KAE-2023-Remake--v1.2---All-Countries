@@ -1,0 +1,33 @@
+state=
+{
+	id=927
+	name="STATE_927"
+	manpower = 1749260
+	state_category = large_town
+	
+	
+	history=
+	{
+		owner = BIN
+		add_core_of = BIN
+		
+		victory_points = {
+			11944 5 
+		}
+		
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 1
+			11944 = {
+				naval_base = 3
+			}	
+		}
+
+	}
+	provinces={
+		12093 1084 10119 11944 
+	}
+
+	local_supplies=0.0 
+}

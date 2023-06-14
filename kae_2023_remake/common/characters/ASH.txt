@@ -1,0 +1,16 @@
+characters={
+	ASH_jelani_eze={
+		name=ASH_CHARACTER_JELANI_EZE
+		portraits={
+			civilian={
+				large="GFX_portrait_ash_jelani_eze_large"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits = {  }
+			desc = ASH_JELANI_EZE_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

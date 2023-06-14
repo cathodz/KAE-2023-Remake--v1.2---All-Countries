@@ -1,0 +1,16 @@
+characters={
+	SCL_miriam_taris={
+		name=SCL_CHARACTER_MIRIAM_TARIS
+		portraits={
+			civilian={
+				large="GFX_portrait_scl_miriam_taris_large"
+			}
+		}
+		country_leader={
+			ideology=paternal_technocracy
+			traits = {  }
+			desc = SCL_MIRIAM_TARIS_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

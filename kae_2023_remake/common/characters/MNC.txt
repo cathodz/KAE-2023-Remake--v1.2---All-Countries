@@ -1,0 +1,16 @@
+characters={
+	MNC_petrov_olegovich={
+		name=MNC_CHARACTER_PETROV_OLEGOVICH
+		portraits={
+			civilian={
+				large="GFX_portrait_mnc_petrov_olegovich_large"
+			}
+		}
+		country_leader={
+			ideology=corporatist_galactism
+			traits = {  }
+			desc = MNC_PETROV_OLEGOVICH_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

@@ -1,0 +1,16 @@
+characters={
+	GEC_león_jewett_madera={
+		name=GEC_CHARACTER_LEON_JEWETT_MADERA
+		portraits={
+			civilian={
+				large="GFX_portrait_gec_león_jewett_madera_large"
+			}
+		}
+		country_leader={
+			ideology=socialist_populism
+			traits = {  }
+			desc = GEC_LEON_JEWETT_MADERA_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	

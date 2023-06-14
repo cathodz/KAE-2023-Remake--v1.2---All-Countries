@@ -1,0 +1,16 @@
+characters={
+	KAT_njowga_sekibo={
+		name=KAT_CHARACTER_NJOWGA_SEKIBO
+		portraits={
+			civilian={
+				large="GFX_portrait_kat_njowga_sekibo_large"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			traits = {  }
+			desc = KAT_NJOWGA_SEKIBO_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	
