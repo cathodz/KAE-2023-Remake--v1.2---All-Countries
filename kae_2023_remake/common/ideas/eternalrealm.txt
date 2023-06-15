@@ -1,0 +1,288 @@
+ideas = {
+
+	country = {
+		shadow_state = {
+			picture = shadowstate
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			cancel = {
+				NOT = { has_government = accelerationism }
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				subjects_autonomy_gain = -2
+				resistance_growth = -0.8
+				compliance_growth = -0.2
+				crypto_strength = 3
+			}
+		}
+	}
+
+	# TECHNOLOGY
+
+	tank_manufacturer = { 
+		
+		designer = yes
+		
+		riotanker = {
+		
+			picture = texama
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				armor = 0.15
+			}
+			
+			traits = { heavy_tank_manufacturer }
+
+			ai_will_do = {
+				factor = 5
+			}
+
+		}
+		
+		americawagen = {
+
+			picture = plata
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				armor = 0.15
+			}
+			
+			traits = { fast_tank_manufacturer }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		
+	}
+	
+	naval_manufacturer = { 
+		
+		designer = yes
+		
+		astillerosdebahia = {
+
+			picture = bahia
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				naval_equipment = 0.15
+			}
+			
+			equipment_bonus = {
+				
+			}
+			
+			traits = { atlantic_fleet_naval_manufacturer }
+			
+		}
+		
+		companiaplatinense = {
+
+			picture = navantia
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				naval_equipment = 0.15
+			}
+			
+			traits = { raiding_fleet_naval_manufacturer }
+			
+			equipment_bonus = {
+				
+			}
+			
+		}	
+	}
+	
+	aircraft_manufacturer = { 
+			
+		designer = yes
+		
+		elsielosa = {
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				air_equipment = 0.15
+			}
+			
+			traits = { light_aircraft_manufacturer }
+			
+			equipment_bonus = {
+				
+			}
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		
+		heavyaircompa = { 
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+						
+			research_bonus = {
+				air_equipment = 0.15
+			}
+			
+			traits = { CAS_manufacturer }
+			
+			equipment_bonus = {
+				
+			}
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}	
+		
+
+		mursielagoalien = { 
+			
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+						
+			research_bonus = {
+				air_equipment = 0.15
+			}
+			
+			traits = { medium_aircraft_manufacturer }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	
+	industrial_concern = {
+		
+		potosi2 = {
+
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				industry = 0.05
+				synth_resources = 0.2
+			}
+			
+			traits = { refinery_concern }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		
+		amazontreeshit = {
+
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				industry = 0.2
+				
+			}
+			ai_will_do = {
+				factor = 2
+			}
+			
+			traits = { industrial_concern }
+		}
+
+		hackeoperuano = {
+
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				electronics = 0.2
+			}
+			
+			traits = { electronics_concern }
+		}		
+	}
+	
+	materiel_manufacturer = {
+		
+		designer = yes
+		bombardaslusitanas = {
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				artillery = 0.15
+			}
+			
+			traits = { artillery_manufacturer }
+			
+			modifier = {
+				# +10% arty/at/aa research speed
+			}
+		}
+		
+		macacoweapons = {
+
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				infantry_weapons = 0.15
+			}
+			
+			traits = { infantry_equipment_manufacturer }
+			
+			ai_will_do = {
+				factor = 2
+			}
+		}
+		michubichi = {
+			picture = macaco
+			allowed = {
+				original_tag = ETR
+			}
+			
+			research_bonus = {
+				motorized_equipment = 0.15
+			}
+			
+			traits = { motorized_equipment_manufacturer }
+		}
+	}
+}
