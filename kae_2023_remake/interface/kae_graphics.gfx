@@ -3,4 +3,28 @@ spriteTypes = {
 		name = "GFX_kae_bookmark"
 		texturefile = "gfx/interface/2328_start.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_shadowstate"
+		texturefile = "gfx/interface/ideas/shadow_state.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_texama"
+		texturefile = "gfx/interface/ideas/idea_texama.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_plata"
+		texturefile = "gfx/interface/ideas/idea_plata.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_bahia"
+		texturefile = "gfx/interface/ideas/idea_bahia.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_navantia"
+		texturefile = "gfx/interface/ideas/idea_navantia.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_macaco"
+		texturefile = "gfx/interface/ideas/idea_macaco.dds"
+	}
 }
