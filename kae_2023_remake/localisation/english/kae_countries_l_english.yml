@@ -55,7 +55,58 @@
  RCA_ultraprogressivism_ADJ:0 "Commonwealther"
 
  ### EUROPE
- 
+ ADC_monarchism:0 "Iberian Union"
+ ADC_monarchism_DEF:0 "the Third Iberian Union"
+ ADC_monarchism_ADJ:0 "Iberian"
+
+ ADC_vanguardism:0 "Spanish Vanguard State"
+ ADC_vanguardism_DEF:0 "the Spanish Vanguard"
+ ADC_vanguardism_ADJ:0 "Spanish"
+
+ ADC_fascism:0 "Empire of Santiago"
+ ADC_fascism_DEF:0 "the Empire of Santiago"
+ ADC_fascism_ADJ:0 "Spanish"
+
+ ADC_communism:0 "Union of Iberian Soviets"
+ ADC_communism_DEF:0 "the Union of Iberian Soviets"
+ ADC_communism_ADJ:0 "Iberian"
+
+ ADC_democratic:0 "Iberian Republic"
+ ADC_democratic_DEF:0 "the Iberian Republic"
+ ADC_democratic_ADJ:0 "Iberian"
+
+ ADC_socialism:0 "Iberian Socialist Republic"
+ ADC_socialism_DEF:0 "the Iberian Socialist Republic"
+ ADC_socialism_ADJ:0 "Iberian"
+
+ ADC_progressivism:0 "Iberian Republic"
+ ADC_progressivism_DEF:0 "the Iberian Republic"
+ ADC_progressivism_ADJ:0 "Iberian"
+
+ ADC_ultraprogressivism:0 "Iberian Workers' Republic"
+ ADC_ultraprogressivism_DEF:0 "the Iberian Workers' Republic"
+ ADC_ultraprogressivism_ADJ:0 "Iberian"
+
+ ADC_galactism:0 "Galactist Iberia"
+ ADC_galactism_DEF:0 "Iberia"
+ ADC_galactism_ADJ:0 "Iberian"
+
+ ADC_technocratic:0 "Techocracy of Iberia"
+ ADC_technocratic_DEF:0 "the Technocracy of Iberia"
+ ADC_technocratic_ADJ:0 "Iberian"
+
+ ADC_warlordism:0 "Hispanian Confederation"
+ ADC_warlordism_DEF:0 "the Hispanian Confederation"
+ ADC_warlordism_ADJ:0 "Hispanian"
+
+ ADC_accelerationism:0 "Estado Surreal"
+ ADC_accelerationism_DEF:0 "the Estado Surreal"
+ ADC_accelerationism_ADJ:0 "Surreal"
+
+ ADC_neutrality:0 "Andalusia"
+ ADC_neutrality_DEF:0 "the Andalusian State"
+ ADC_neutrality_ADJ:0 "Andalusian"
+
  DEL_monarchism:0 "Delvalle"
  DEL_monarchism_DEF:0 "the Empire of Delvalle"
  DEL_monarchism_ADJ:0 "Delvallan"

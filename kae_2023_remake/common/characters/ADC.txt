@@ -1,0 +1,17 @@
+characters={
+	ADC_pedro_jimenez={
+		name=ADC_CHARACTER_PEDRO_JIMENEZ
+		portraits={
+			civilian={
+				large="GFX_portrait_pedro_jimenez_large"
+			}
+		}
+		country_leader={
+			ideology=moderatism
+			traits = {  }
+			desc = ADC_PEDRO_JIMENEZ_DESC
+			expire="2400.1.1.1"
+		}
+	}
+}
+	
