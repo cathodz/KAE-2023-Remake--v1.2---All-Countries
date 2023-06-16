@@ -56,7 +56,10 @@ RCA = {
 }
 
 ### EUROPE
-
+ADC = {
+	color = rgb { 4 181 122 }
+	color_ui = rgb { 4 181 122 }
+}
 DEL = {
 	color = rgb { 86 99 135 }
 	color_ui = rgb { 86 99 135 }	

@@ -209,7 +209,12 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_nwy_pal_torkelson_large"
 		texturefile = "gfx/leaders/nwy/portrait_large_pal_torkelson.dds"
-	}			
+	}	
+# Andalusia
+	spriteType = {
+		name = "GFX_portrait_pedro_jimenez_large"
+		texturefile = "gfx/leaders/ADC/portrait_adc_pedro_jimenez.dds"
+	}					
 
 
 
