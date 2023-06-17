@@ -88,7 +88,7 @@ if = {
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "2328.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -104,13 +104,13 @@ set_popularities = {
 	ultraprogressivism = 3
 	progressivism = 0
 	monarchism = 27
-	fascism = 6
+	fascism = 36
 	neutrality = 12
-	vanguardism = 39
+	vanguardism = 9
 	warlordism = 0
 }
 
 
-recruit_character = 
+recruit_character = ASU_pelayo_menendez
 
 

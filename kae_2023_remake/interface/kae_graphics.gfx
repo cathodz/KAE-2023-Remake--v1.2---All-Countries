@@ -27,4 +27,36 @@ spriteTypes = {
 		name = "GFX_idea_macaco"
 		texturefile = "gfx/interface/ideas/idea_macaco.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_aerovagon"
+		texturefile = "gfx/interface/ideas/idea_aerovagon.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_catodo"
+		texturefile = "gfx/interface/ideas/idea_catodo.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_andean"
+		texturefile = "gfx/interface/ideas/idea_andean.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ultra"
+		texturefile = "gfx/interface/ideas/idea_ultra.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_potosi"
+		texturefile = "gfx/interface/ideas/idea_potosi.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_mayapuchi"
+		texturefile = "gfx/interface/ideas/idea_mayapuchi.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_amazon"
+		texturefile = "gfx/interface/ideas/idea_amazon.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_luso"
+		texturefile = "gfx/interface/ideas/idea_luso.dds"
+	}
 }
