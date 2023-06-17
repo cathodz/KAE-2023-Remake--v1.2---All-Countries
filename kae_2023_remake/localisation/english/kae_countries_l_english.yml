@@ -107,6 +107,58 @@
  ADC_neutrality_DEF:0 "the Andalusian State"
  ADC_neutrality_ADJ:0 "Andalusian"
 
+ ASU_neutrality:0 "Orden del Sagrado Corazón"
+ ASU_neutrality_DEF:0 "the Iberian Holy Order"
+ ASU_neutrality_ADJ:0 "Iberian"
+
+ ASU_fascism:0 "Second Asturian Empire"
+ ASU_fascism_DEF:0 "the Second Asturian Empire"
+ ASU_fascism_ADJ:0 "Asturian"
+
+ ASU_communism:0 "Asturian Workers' Alliance"
+ ASU_communism_DEF:0 "the Asturian Workers' Alliance"
+ ASU_communism_ADJ:0 "Asturian"
+
+ ASU_democratic:0 "Iberian Federation"
+ ASU_democratic_DEF:0 "the Iberian Federation"
+ ASU_democratic_ADJ:0 "Iberian"
+
+ ASU_accelerationism:0 "Estado Subnormal"
+ ASU_accelerationism_DEF:0 "the Estado Subnormal"
+ ASU_accelerationism_ADJ:0 "Subnormal"
+
+ ASU_monarchism:0 "Kingdom of Asturias"
+ ASU_monarchism_DEF:0 "the Asturian Kingdom"
+ ASU_monarchism_ADJ:0 "Asturian"
+
+ ASU_vanguardism:0 "Neo-Visigoth State"
+ ASU_vanguardism_DEF:0 "the Neo-Visigoth State"
+ ASU_vanguardism_ADJ:0 "Visigothic"
+
+ ASU_warlordism:0 "Asturian Royal Council"
+ ASU_warlordism_DEF:0 "the Asturian Nobles"
+ ASU_warlordism_ADJ:0 "Asturian"
+
+ ASU_progressivism:0 "Cantonal Republic of Iberia"
+ ASU_progressivism_DEF:0 "the Cantonal Republic of Iberia"
+ ASU_progressivism_ADJ:0 "Cantonal"
+
+ ASU_ultraprogressivism:0 "Cantonal Directory of Iberia"
+ ASU_ultraprogressivism_DEF:0 "the Cantonal Directory of Iberia"
+ ASU_ultraprogressivism_ADJ:0 "Cantonal"
+
+ ASU_socialism:0 "Asturian Social Republic"
+ ASU_socialism_DEF:0 "the Asturian Social Republic"
+ ASU_socialism_ADJ:0 "Asturian"
+
+ ASU_technocratic:0 "Commitee for Iberian Progress"
+ ASU_technocratic_DEF:0 "the Commitee for Iberian Progress"
+ ASU_technocratic_ADJ:0 "Iberian"
+
+ ASU_galactism:0 "Asturian Galactist State"
+ ASU_galactism_DEF:0 "the Asturian Galactist State"
+ ASU_galactism_ADJ:0 "Asturian"
+
  DEL_monarchism:0 "Delvalle"
  DEL_monarchism_DEF:0 "the Empire of Delvalle"
  DEL_monarchism_ADJ:0 "Delvallan"
