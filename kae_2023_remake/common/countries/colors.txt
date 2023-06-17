@@ -60,6 +60,10 @@ ADC = {
 	color = rgb { 4 181 122 }
 	color_ui = rgb { 4 181 122 }
 }
+ASU = {
+	color = rgb { 100 180 227 }
+	color_ui = rgb { 100 180 227 }
+}
 DEL = {
 	color = rgb { 86 99 135 }
 	color_ui = rgb { 86 99 135 }	

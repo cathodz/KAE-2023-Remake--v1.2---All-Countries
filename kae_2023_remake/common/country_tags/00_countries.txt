@@ -18,6 +18,7 @@ RCA = "countries/Commonwealth Exiled Administration.txt"
 ### EUROPE
 
 ADC = "countries/Andalucia.txt"
+ASU = "countries/Asturias.txt"
 DEL = "countries/Delvalle.txt"
 ORA = "countries/Orange Empire.txt"
 YGS = "countries/Yugoslavia.txt"
