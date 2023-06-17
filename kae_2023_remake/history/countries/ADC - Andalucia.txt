@@ -112,5 +112,5 @@ set_popularities = {
 
 
 recruit_character = ADC_pedro_jimenez
-
+recruit_character = ADC_alfonso_xvi
 

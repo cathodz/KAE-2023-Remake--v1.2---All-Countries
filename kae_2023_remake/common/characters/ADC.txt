@@ -7,9 +7,23 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=moderatism
+			ideology=agrarianism
 			traits = {  }
-			desc = ADC_PEDRO_JIMENEZ_DESC
+			desc = ADC_CHARACTER_PEDRO_JIMENEZ_DESC
+			expire="2400.1.1.1"
+		}
+	}
+	ADC_alfonso_xvi={
+		name=ADC_CHARACTER_ALFONSO_XVI
+		portraits={
+			civilian={
+				large="GFX_portrait_alfonso_xvi_large"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			traits = {  }
+			desc = ADC_CHARACTER_ALFONSO_XVI_DESC
 			expire="2400.1.1.1"
 		}
 	}

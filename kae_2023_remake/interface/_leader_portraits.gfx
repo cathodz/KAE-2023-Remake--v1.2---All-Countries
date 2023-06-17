@@ -214,7 +214,16 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_pedro_jimenez_large"
 		texturefile = "gfx/leaders/ADC/portrait_adc_pedro_jimenez.dds"
-	}					
+	}		
+	spriteType = {
+		name = "GFX_portrait_alfonso_xvi_large"
+		texturefile = "gfx/leaders/ADC/portrait_adc_alfonso_xvi.dds"
+	}	
+# Asturias
+	spriteType = {
+		name = "GFX_portrait_pelayo_menendez_large"
+		texturefile = "gfx/leaders/ASU/portrait_asu_pelayo_menendez.dds"
+	}				
 
 
 

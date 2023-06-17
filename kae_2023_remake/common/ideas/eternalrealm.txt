@@ -119,7 +119,7 @@ ideas = {
 		designer = yes
 		
 		elsielosa = {
-			picture = macaco
+			picture = aerovagon
 			allowed = {
 				original_tag = ETR
 			}
@@ -140,7 +140,7 @@ ideas = {
 		}
 		
 		heavyaircompa = { 
-			picture = macaco
+			picture = catodo
 			allowed = {
 				original_tag = ETR
 			}
@@ -163,7 +163,7 @@ ideas = {
 
 		mursielagoalien = { 
 			
-			picture = macaco
+			picture = andean
 			allowed = {
 				original_tag = ETR
 			}
@@ -185,7 +185,7 @@ ideas = {
 		
 		potosi2 = {
 
-			picture = macaco
+			picture = ultra
 			allowed = {
 				original_tag = ETR
 			}
@@ -204,7 +204,7 @@ ideas = {
 		
 		amazontreeshit = {
 
-			picture = macaco
+			picture = amazon
 			allowed = {
 				original_tag = ETR
 			}
@@ -222,7 +222,7 @@ ideas = {
 
 		hackeoperuano = {
 
-			picture = macaco
+			picture = mayapuchi
 			allowed = {
 				original_tag = ETR
 			}
@@ -239,7 +239,7 @@ ideas = {
 		
 		designer = yes
 		bombardaslusitanas = {
-			picture = macaco
+			picture = luso
 			allowed = {
 				original_tag = ETR
 			}
@@ -273,7 +273,7 @@ ideas = {
 			}
 		}
 		michubichi = {
-			picture = macaco
+			picture = potosi
 			allowed = {
 				original_tag = ETR
 			}

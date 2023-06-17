@@ -1,0 +1,17 @@
+characters={
+	ASU_pelayo_menendez={
+		name=ASU_CHARACTER_PELAYO_MENENDEZ
+		portraits={
+			civilian={
+				large="GFX_portrait_pelayo_menendez_large"
+			}
+		}
+		country_leader={
+			ideology=falangism
+			traits = {  }
+			desc = ASU_CHARACTER_PELAYO_MENENDEZ_DESC
+			expire="2400.1.1.1"
+		}
+	}
+}
+	
