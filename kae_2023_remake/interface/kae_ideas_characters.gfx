@@ -1,0 +1,49 @@
+spriteTypes = {
+
+	### ETR
+
+	spriteType = {
+		name = "GFX_idea_ETR_afonso_bermudez"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_afonso_bermudez.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_andy_wilson"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_andy_wilson.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_donald_mcconnor"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_donald_mcconnor.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_jonathan_williams"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_jonathan_williams.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_lucas_ford"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_lucas_ford.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_markus_anderson"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_markus_anderson.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_maurinho_goncalez"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_maurinho_goncalez.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_military_council"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_military_council.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_phillip_brown"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_phillip_brown.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_robert_jones"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_robert_jones.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ETR_thomas_miller"
+		texturefile = "gfx/interface/ideas/ETR_ministers/ETR_thomas_miller.dds"
+	}
+}
