@@ -120,5 +120,15 @@ set_popularities = {
 
 
 recruit_character = ETR_ozul_marduk
-
+recruit_character = ETR_jonathan_williams
+recruit_character = ETR_phillip_brown
+recruit_character = ETR_markus_anderson
+recruit_character = ETR_maurinho_gonçalez
+recruit_character = ETR_andy_wilson
+recruit_character = ETR_lucas_ford
+recruit_character = ETR_military_council
+recruit_character = ETR_robert_jones
+recruit_character = ETR_thomas_miller
+recruit_character = ETR_afonso_bermudez
+recruit_character = ETR_donald_mcconnor
 

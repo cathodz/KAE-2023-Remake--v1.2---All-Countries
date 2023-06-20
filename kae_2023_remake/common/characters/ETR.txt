@@ -13,4 +13,168 @@ characters={
 			expire="2400.1.1.1"
 		}
 	}
-	
+
+############# POLITICAL ADVISORS #############
+
+	ETR_jonathan_williams={
+		name=ETR_CHARACTER_JONATHAN_WILLIAMS
+		portraits={
+			army={
+				small="GFX_idea_ETR_jonathan_williams"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = jonathan_williams
+        		traits = { war_industrialist }     
+		}
+	}
+	ETR_phillip_brown={
+		name=ETR_CHARACTER_PHILLIP_BROWN
+		portraits={
+			army={
+				small="GFX_idea_ETR_phillip_brown"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = phillip_brown
+        		traits = { captain_of_industry }     
+		}
+	}
+	ETR_markus_anderson={
+		name=ETR_CHARACTER_MARKUS_ANDERSON
+		portraits={
+			army={
+				small="GFX_idea_ETR_markus_anderson"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = markus_anderson
+        		traits = { ideological_crusader }     
+		}
+	}
+	ETR_maurinho_gonçalez={
+		name=ETR_CHARACTER_MAURINHO_GONCALEZ
+		portraits={
+			army={
+				small="GFX_idea_ETR_maurinho_goncalez"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = maurinho
+        		traits = { silent_workhorse }     
+		}
+	}
+	ETR_andy_wilson={
+		name=ETR_CHARACTER_ANDY_WILSON
+		portraits={
+			army={
+				small="GFX_idea_ETR_andy_wilson"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = andy_wilson
+        		traits = { prince_of_terror }     
+		}
+	}
+	ETR_lucas_ford={
+		name=ETR_CHARACTER_LUCAS_FORD
+		portraits={
+			army={
+				small="GFX_idea_ETR_lucas_ford"
+			}
+			
+		}
+		advisor = {
+    			slot = political_advisor
+    			idea_token = lucas_ford
+        		traits = { technocrat }     
+		}
+	}
+
+############# THEORISTS #############
+
+	ETR_military_council={
+		name=ETR_CHARACTER_MILITARY_COUNCIL
+		portraits={
+			army={
+				small="GFX_idea_ETR_military_council"
+			}
+			
+		}
+		advisor = {
+    			slot = theorist
+    			idea_token = etrcouncil
+			ledger = military
+        		traits = { council_of_theorists }     
+		}
+	}
+	ETR_robert_jones={
+		name=ETR_CHARACTER_ROBERT_JONES
+		portraits={
+			army={
+				small="GFX_idea_ETR_robert_jones"
+			}
+			
+		}
+		advisor = {
+    			slot = theorist
+    			idea_token = robertjones
+			ledger = army
+        		traits = { military_theorist }     
+		}
+	}
+	ETR_thomas_miller={
+		name=ETR_CHARACTER_THOMAS_MILLER
+		portraits={
+			army={
+				small="GFX_idea_ETR_thomas_miller"
+			}
+			
+		}
+		advisor = {
+    			slot = theorist
+    			idea_token = thomasmiller
+			ledger = army
+        		traits = { blitzkrieg_theorist }     
+		}
+	}
+	ETR_afonso_bermudez={
+		name=ETR_CHARACTER_AFONSO_BERMUDEZ
+		portraits={
+			army={
+				small="GFX_idea_ETR_afonso_bermudez"
+			}
+			
+		}
+		advisor = {
+    			slot = theorist
+    			idea_token = afonsobermudez
+			ledger = navy
+        		traits = { naval_theorist }     
+		}
+	}
+	ETR_donald_mcconnor={
+		name=ETR_CHARACTER_DONALD_MCCONNOR
+		portraits={
+			army={
+				small="GFX_idea_ETR_donald_mcconnor"
+			}
+			
+		}
+		advisor = {
+    			slot = theorist
+    			idea_token = donaldconnor
+			ledger = air
+        		traits = { air_warfare_theorist }     
+		}
+	}
